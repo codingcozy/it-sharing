@@ -8,7 +8,7 @@ export const LANG_LOCALE: { [key: string]: string } = {
   en: "en_US",
   ja: "ja_JP",
 };
-export const SITE_NAME = "ui-station";
+export const SITE_NAME = "it-sharing";
 export const SITE_URL = "https://it-shar.ing/";
 export const AUTHOR = "UI STATION";
 export const SITE_DESCRIPTION: { [key: string]: string } = {
