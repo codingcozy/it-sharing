@@ -10,7 +10,7 @@ export const LANG_LOCALE: { [key: string]: string } = {
 };
 export const SITE_NAME = "it-sharing";
 export const SITE_URL = "https://it-shar.ing/";
-export const AUTHOR = "UI STATION";
+export const AUTHOR = "It Sharing";
 export const SITE_DESCRIPTION: { [key: string]: string } = {
   ko: `${SITE_NAME} 의 블로그 입니다.`,
   en: "I develop websites, games and apps with HTML, CSS and JS.",
