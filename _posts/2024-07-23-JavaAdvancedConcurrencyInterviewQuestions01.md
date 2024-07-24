@@ -3,14 +3,12 @@ title: "2024 최신 Java 고급 동시성 인터뷰 질문 모음"
 description: ""
 coverImage: "/assets/img/2024-07-23-JavaAdvancedConcurrencyInterviewQuestions01_0.png"
 date: 2024-07-23 21:51
-ogImage: 
+ogImage:
   url: /assets/img/2024-07-23-JavaAdvancedConcurrencyInterviewQuestions01_0.png
 tag: Tech
 originalTitle: "Java Advanced Concurrency Interview Questions01"
 link: "https://medium.com/@vikas.taank_40391/java-advanced-concurrency-interview-questions-01-5ca048dfb844"
 ---
-
-
 
 ![image](/assets/img/2024-07-23-JavaAdvancedConcurrencyInterviewQuestions01_0.png)
 
@@ -19,7 +17,6 @@ link: "https://medium.com/@vikas.taank_40391/java-advanced-concurrency-interview
 그러나 동시성 개념을 이해하고 구현하기 위해서는 어떻게 스레딩이 작동하는지, 간단한 문제를 해결하는 동안 이러한 개념을 어떻게 구현할 수 있는지 이해해야 할 수도 있습니다.
 
 Java에서 스레드 간 통신 및 스레드의 상태를 이해하는 데 좋은 리딩 자료가 있습니다. 프로그래밍에 활용할 수 있습니다.
-
 
 <div class="content-ad"></div>
 
@@ -33,10 +30,9 @@ Java에서 스레드 간 통신 및 스레드의 상태를 이해하는 데 좋�
 
 <div class="content-ad"></div>
 
-
 <img src="/assets/img/2024-07-23-JavaAdvancedConcurrencyInterviewQuestions01_2.png" />
 
-```js
+```java
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -85,7 +81,6 @@ public class EvenOddPrinter {
 
 <img src="/assets/img/2024-07-23-JavaAdvancedConcurrencyInterviewQuestions01_3.png" />
 
-
 <div class="content-ad"></div>
 
 # 이제 인터뷰에서는 고급 구조를 사용하지 않고 쓰레드를 본질적으로 사용할 수 있는지 확인하려고 합니다.
@@ -98,8 +93,9 @@ public class EvenOddPrinter {
 
 <div class="content-ad"></div>
 
-```img src="/assets/img/2024-07-23-JavaAdvancedConcurrencyInterviewQuestions01_5.png" /> 
+<img src="/assets/img/2024-07-23-JavaAdvancedConcurrencyInterviewQuestions01_5.png" />
 
+```java
 public class EvenOddPrinterUsingThreads {
     private static final Object lock = new Object();
     private static final int MAX_NUMBER = 20;
@@ -149,9 +145,9 @@ public class EvenOddPrinterUsingThreads {
         }
     }
 }
+```
 
 Output:
-
 
 <div class="content-ad"></div>
 
@@ -176,6 +172,7 @@ Output:
 
 Predicate 인터페이스를 사용하면 두 가지 조건을 설계하고 이러한 조건을 CompletableFuture에 전달하여 더 쉽게 구현할 수 있습니다. 유일한 차이점은 이제 홀수와 짝수를 확인하는 로직이 Predicate 자체에 의해 제어된다는 것입니다.
 
+```java
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -183,25 +180,25 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.function.Predicate;
 
 public class EvenOddPrinterWithPredicate {
-    
+
     private static final int MAX_NUMBER = 20;
     private static AtomicInteger current = new AtomicInteger(1);
     private static final Object lock = new Object();
-    
+
     public static void main(String[] args) {
         ExecutorService executor = Executors.newFixedThreadPool(2);
-        
+
         Predicate<Integer> isEven = num -> num % 2 == 0;
         Predicate<Integer> isOdd = isEven.negate();
-        
+
         CompletableFuture<Void> evenTask = CompletableFuture.runAsync(() -> printNumbers(isEven), executor);
         CompletableFuture<Void> oddTask = CompletableFuture.runAsync(() -> printNumbers(isOdd), executor);
-        
+
         CompletableFuture.allOf(evenTask, oddTask).join(); // 두 작업이 모두 완료될 때까지 기다림
-        
+
         executor.shutdown();
     }
-    
+
     private static void printNumbers(Predicate<Integer> condition) {
         while (current.get() <= MAX_NUMBER) {
             synchronized (lock) {
@@ -219,6 +216,7 @@ public class EvenOddPrinterWithPredicate {
         }
     }
 }
+```
 
 <div class="content-ad"></div>
 
