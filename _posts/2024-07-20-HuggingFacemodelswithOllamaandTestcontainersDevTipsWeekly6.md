@@ -1,5 +1,5 @@
 ---
-title: " Ollama와 Testcontainers로 Hugging Face 모델 사용하기  DevTips 주간 소식 6"
+title: "Ollama와 Testcontainers로 Hugging Face 모델 사용하기 "
 description: ""
 coverImage: "/assets/img/2024-07-20-HuggingFacemodelswithOllamaandTestcontainersDevTipsWeekly6_0.png"
 date: 2024-07-20 11:30
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: " Hugging Face models with Ollama and Testcontainers  DevTips Weekly 6"
 link: "https://medium.com/@zarinfam/%EF%B8%8F-hugging-face-models-with-ollama-and-testcontainers-devtips-weekly-6-149e7cbb8848"
+isUpdated: true
+updatedAt: 1723816734889
 ---
+
 
 
 어서오십시오, DevTips 주간 소식(#6)을 소개합니다! 📰 이번 주에는 여러분을 최신 기술 속으로 안내해 줄 기사와 자료를 선별했습니다.

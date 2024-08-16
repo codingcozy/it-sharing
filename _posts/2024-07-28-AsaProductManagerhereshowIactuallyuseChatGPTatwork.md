@@ -1,5 +1,5 @@
 ---
-title: "프로덕트 매니저로서 실제 ChatGPT를 업무에서 사용하는 방법"
+title: "개발자가 ChatGPT를 실제 업무에서 사용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-28-AsaProductManagerhereshowIactuallyuseChatGPTatwork_0.png"
 date: 2024-07-28 14:01
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "As a Product Manager, heres how I actually use ChatGPT at work"
 link: "https://medium.com/towards-artificial-intelligence/as-a-product-manager-heres-how-i-actually-use-chatgpt-at-work-66748730cece"
+isUpdated: true
+updatedAt: 1723813445477
 ---
+
 
 
 ![image](/assets/img/2024-07-28-AsaProductManagerhereshowIactuallyuseChatGPTatwork_0.png)

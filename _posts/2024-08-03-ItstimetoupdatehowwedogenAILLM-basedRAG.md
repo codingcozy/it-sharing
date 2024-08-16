@@ -1,5 +1,5 @@
 ---
-title: "이제는 LLM 기반 RAG를 업데이트할 때입니다 최신 겐AI 기법 소개"
+title: "LLM 기반 RAG를 활용한 최신 GENAI 기법 소개"
 description: ""
 coverImage: "/assets/img/2024-08-03-ItstimetoupdatehowwedogenAILLM-basedRAG_0.png"
 date: 2024-08-03 20:54
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Its time to update how we do genAI LLM-based RAG"
 link: "https://medium.com/@paul.k.pallaghy/its-time-to-update-how-we-do-genai-llm-based-rag-8b8528d71bb8"
+isUpdated: true
+updatedAt: 1723816643147
 ---
+
 
 
 요즘 RAG에는 몇 개의 청크(크기도)를 사용해야 할까요? (RAG 아키텍처 아카이브의 다른 변형들은 일단 제외하고 생각해 봅시다).

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "White karahi and its ingredients"
 link: "https://medium.com/@balouchinam/white-karahi-and-its-ingredients-95744218210f"
+isUpdated: true
+updatedAt: 1723816952633
 ---
+
 
 
 

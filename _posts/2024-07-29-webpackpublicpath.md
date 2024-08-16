@@ -1,5 +1,5 @@
 ---
-title: "Webpack 설정 publicPath를 설정하는 방법"
+title: "Webpack 설정에서 publicPath를 설정하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-29 13:53
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "webpack publicpath"
 link: "https://dev.to/zwd321081/webpack-publicpath-321h"
+isUpdated: true
+updatedAt: 1723816450564
 ---
+
 
 
 publicPath 구성 옵션은 정적 자산의 경로를 동적으로 조정할 수 있도록 하는 자리 표시자 역할을 합니다.

@@ -1,5 +1,5 @@
 ---
-title: "컴퓨터 코드 읽기의 즐거움 "
+title: "컴퓨터 코드 읽기의 즐거움"
 description: ""
 coverImage: "/assets/img/2024-07-23-ThePleasuresofReadingComputerCode_0.png"
 date: 2024-07-23 22:05
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Pleasures of Reading Computer Code"
 link: "https://medium.com/@clivethompson/the-pleasures-of-reading-computer-code-d433b5bbe869"
+isUpdated: true
+updatedAt: 1723816773332
 ---
+
 
 
 ![2024-07-23-ThePleasuresofReadingComputerCode_0.png](/assets/img/2024-07-23-ThePleasuresofReadingComputerCode_0.png)

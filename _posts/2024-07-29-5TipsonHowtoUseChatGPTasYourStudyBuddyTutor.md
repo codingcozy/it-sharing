@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT를 학습 도우미로 사용하는 5가지 팁"
+title: "ChatGPT를 학습 도우미로 사용하는 5가지 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-29 13:57
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "5 Tips on How to Use ChatGPT as Your Study Buddy   Tutor"
 link: "https://medium.com/@hejrene/5-tips-on-how-to-use-chatgpt-as-your-study-buddy-tutor-ed73a40c975b"
+isUpdated: true
+updatedAt: 1723816963784
 ---
+
 
 
 ## 더 똑똑하게 공부하기: 지루한 스크립트에서 매력적인 학습으로

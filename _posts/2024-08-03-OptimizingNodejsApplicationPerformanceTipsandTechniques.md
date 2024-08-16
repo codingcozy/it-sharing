@@ -1,5 +1,5 @@
 ---
-title: "Nodejs 애플리케이션 성능 최적화 팁과 기법"
+title: "시니어 개발자가 알려주는 Nodejs 애플리케이션 성능 최적화 하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-03-OptimizingNodejsApplicationPerformanceTipsandTechniques_0.png"
 date: 2024-08-03 20:52
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Optimizing Nodejs Application Performance Tips and Techniques"
 link: "https://medium.com/stackademic/optimizing-node-js-application-performance-tips-and-techniques-1eb3069a05ed"
+isUpdated: true
+updatedAt: 1723816540634
 ---
+
 
 
 <img src="/assets/img/2024-08-03-OptimizingNodejsApplicationPerformanceTipsandTechniques_0.png" />

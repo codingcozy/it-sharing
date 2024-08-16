@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Nucleoid Neuro-Symbolic AI with Logic Graph"
 link: "https://dev.to/canmingir/nucleoid-neuro-symbolic-ai-with-logic-graph-3ll6"
+isUpdated: true
+updatedAt: 1723816814966
 ---
+
 
 
 Nucleoid는 뇌-상징적 AI를 위한 선언적이고 논리 기반의 컨텍스트 런타임입니다. Nucleoid 런타임은 JavaScript 구문의 각 문을 추적하고 논리와 데이터 사이의 관계를 동적으로 만들어 논리 그래프로 만들어 결정 및 문제 해결 과정에 사용하기 위한 지식 기반을 형성합니다.

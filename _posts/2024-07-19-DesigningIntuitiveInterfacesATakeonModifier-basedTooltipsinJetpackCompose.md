@@ -1,5 +1,5 @@
 ---
-title: "직관적인 인터페이스 디자인 Jetpack Compose에서 모디파이어 기반 툴팁 구현 방법"
+title: "직관적인 인터페이스를 위한 디자인 Jetpack Compose에서 모디파이어 기반 툴팁 구현 하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-19 13:35
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Designing Intuitive Interfaces A Take on Modifier-based Tooltips in Jetpack Compose"
 link: "https://medium.com/@michellbak/designing-intuitive-interfaces-a-guide-to-tooltips-in-jetpack-compose-ac37b355f43d"
+isUpdated: true
+updatedAt: 1723812218488
 ---
+
 
 
 앱 개발 분야에서 계속 변화하는 환경 속에서 직관적이고 사용자 친화적인 인터페이스를 만드는 것은 어떤 프로젝트의 성공에 중요합니다.
@@ -73,3 +76,4 @@ MyComponent(
 사용 경험이 달라질 수 있지만, 여러분의 유용성이나 피드백 및 개선 제안에 대한 소식을 듣고 싶습니다.
 
 시도해보고 싶다면, Google Play에서 Public 앱을 다운로드하시기를 권장합니다.
+```

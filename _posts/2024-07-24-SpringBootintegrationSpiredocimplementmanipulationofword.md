@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Spring Boot integration Spiredoc implement manipulation of word"
 link: "https://medium.com/@jxausea/spring-boot-integration-spire-doc-implement-manipulation-of-word-afed9208065d"
+isUpdated: true
+updatedAt: 1723813159696
 ---
+
 
 
 # 1. 스파이어 독은 무엇인가요?

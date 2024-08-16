@@ -1,5 +1,5 @@
 ---
-title: "우리가 아직 이해하지 못하고 있는 머신 러닝의 5가지 점"
+title: "우리가 아직 이해하지 못하고 있는 머신 러닝의 5가지 장점"
 description: ""
 coverImage: "/assets/img/2024-07-30-WhatWeStillDontUnderstandAboutMachineLearning_0.png"
 date: 2024-07-30 17:07
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "What We Still Dont Understand About Machine Learning"
 link: "https://medium.com/towards-data-science/what-we-still-dont-understand-about-machine-learning-699e0002a057"
+isUpdated: true
+updatedAt: 1723817072220
 ---
+
 
 
 기계 학습의 기본 주제 중 일부가 여전히 연구자들에게 알려지지 않은 점은 놀랍습니다. 이러한 주제들은 기본적이고 흔히 사용되지만 여전히 신비로운 측면이 있다고 생각됩니다. 기계 학습에 대한 재미있는 점은 우리가 작동하는 것들을 만들고 나서 그것들이 왜 작동하는지 파악하는 것입니다!

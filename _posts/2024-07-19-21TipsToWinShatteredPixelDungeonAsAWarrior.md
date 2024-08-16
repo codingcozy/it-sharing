@@ -1,13 +1,15 @@
 ---
-title: " 전사로서 Shattered Pixel Dungeon에서 승리하는 21가지 팁"
+title: "Shattered Pixel Dungeon에서 이기는 방법 21가지 정리"
 description: ""
 coverImage: "/assets/img/2024-07-19-21TipsToWinShatteredPixelDungeonAsAWarrior_0.png"
-date: 2024-07-19 13:30
+date: 2024-08-16 15:31
 ogImage: 
   url: /assets/img/2024-07-19-21TipsToWinShatteredPixelDungeonAsAWarrior_0.png
 tag: Tech
 originalTitle: " 21 Tips To Win Shattered Pixel Dungeon As A Warrior"
 link: "https://medium.com/@tomaszs2/%EF%B8%8F-21-tips-to-win-shattered-pixel-dungeon-as-a-warrior-65ec65094856"
+isUpdated: true
+updatedAt: 1723812250713
 ---
 
 
@@ -82,7 +84,6 @@ Shattered Pixel Dungeon은 스킬과 인벤토리 관리가 중요한 게임이�
 
 <div class="content-ad"></div>
 
-
 ![이질적인픽셀던전을 전사로 이기는 21가지 요령](/assets/img/2024-07-19-21TipsToWinShatteredPixelDungeonAsAWarrior_5.png)
 
 너무 많이 생명력이 줄었다면, 찾은 인벤토리를 사용하지 않았다는 뜻입니다. 일부 무기와 갑옷은 업그레이드가 되어 있어서, 더 좋은 것으로 바꾸는 것이 좋습니다.
@@ -90,7 +91,6 @@ Shattered Pixel Dungeon은 스킬과 인벤토리 관리가 중요한 게임이�
 내 아바타가 생명력의 50%를 잃을 때까지 굶겨 둔 후 음식을 줍니다. 천천히 아바타를 치유합니다. 치유 물약이 필요할 때에는 전투 중 다음 공격이 치명적일 것으로 보일 때만 사용하는 경향이 있습니다.
 
 가끔 실수로 클릭을 잘못해서 공격 대신 이동할 때도 있어요 😊
-
 
 <div class="content-ad"></div>
 
@@ -204,7 +204,6 @@ Ankh를 축복하려면 물 한 방울이 20방울 담긴 담은 주머니가 �
 
 <div class="content-ad"></div>
 
-
 ![Screenshot](/assets/img/2024-07-19-21TipsToWinShatteredPixelDungeonAsAWarrior_15.png)
 
 전사 클래스를 사용하고 있지만, 완드는 반드시 필요합니다. 사용해도 파괴되지 않고 재충전되어 거리와 근접 공격에 모두 효과적입니다.
@@ -212,7 +211,6 @@ Ankh를 축복하려면 물 한 방울이 20방울 담긴 담은 주머니가 �
 적에게 완드를 던질 수도 있습니다. 그 효과는 모르지만, 시도해볼 수 있어요 😁
 
 # 16. 숨겨진 방을 탐험하세요
-
 
 <div class="content-ad"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: "내 첫 npm 라이브러리 제작 여정 초보자를 위한 가이드"
+title: "나만의 npm 라이브러리를 만드는 가장 쉬운 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-24 11:58
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "My Journey Creating My First npm Library"
 link: "https://dev.to/best_codes/my-journey-creating-my-first-npm-library-15aj"
+isUpdated: true
+updatedAt: 1723812900642
 ---
+
 
 
 # 나의 여정: 최고의-bible npm 라이브러리 만들기

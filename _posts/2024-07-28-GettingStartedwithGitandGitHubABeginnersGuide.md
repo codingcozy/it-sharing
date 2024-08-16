@@ -1,5 +1,5 @@
 ---
-title: "Git과 GitHub 시작하기 초보자를 위한 가이드"
+title: "Git과 GitHub 초보자를 위한 가이드"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-28 13:54
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Getting Started with Git and GitHub A Beginners Guide"
 link: "https://dev.to/imevanc/getting-started-with-git-and-github-a-beginners-guide-17ga"
+isUpdated: true
+updatedAt: 1723816928617
 ---
+
 
 
 내 GitHub 독서 목록의 첫 번째 글에 오신 것을 환영합니다! 만약 버전 관리와 GitHub에 대해 처음이라면, 여기가 바로 적합한 장소입니다. 이 글에서는 Git과 GitHub의 기본을 다루고, 개발자에게 필수 도구인 이유를 설명하며, 첫 번째 저장소를 설정하는 방법을 안내해 드릴 것입니다.

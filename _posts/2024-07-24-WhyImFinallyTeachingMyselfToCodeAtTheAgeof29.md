@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Why Im Finally Teaching Myself To Code At The Age of 29"
 link: "https://medium.com/datadriveninvestor/why-im-finally-teaching-myself-to-code-at-the-age-of-29-9c23febb5c63"
+isUpdated: true
+updatedAt: 1723816800807
 ---
+
 
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Searching for a Value in an Array Using JavaScript"
 link: "https://dev.to/sudhanshu_developer/searching-for-a-value-in-an-array-using-javascript-fh4"
+isUpdated: true
+updatedAt: 1723816424771
 ---
+
 
 
 이 프로그램은 JavaScript에서 while 루프를 사용하여 배열 내에서 특정 값(val)을 검색하는 방법을 보여줍니다. 사용자에게 값을 입력하라는 메시지가 나타나며, 프로그램은 이 값이 미리 정의된 다양한 값들 중에 있는지 확인합니다. 값이 발견되면 해당 값의 가용성을 나타내는 메시지가 표시되고, 그렇지 않으면 값이 존재하지 않음을 나타내는 메시지가 표시됩니다.

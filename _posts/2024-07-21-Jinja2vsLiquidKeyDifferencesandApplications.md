@@ -1,5 +1,5 @@
 ---
-title: "Jinja2와 Liquid 비교 주요 차이점과 활용 사례"
+title: "Jinja2와 Liquid 비교 정리"
 description: ""
 coverImage: "/assets/img/2024-07-21-Jinja2vsLiquidKeyDifferencesandApplications_0.png"
 date: 2024-07-21 11:27
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Jinja2 vs Liquid Key Differences and Applications"
 link: "https://medium.com/@lucaberton/jinja2-vs-liquid-key-differences-and-applications-7f2469d1d2fe"
+isUpdated: true
+updatedAt: 1723812848134
 ---
+
 
 
 

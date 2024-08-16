@@ -1,5 +1,5 @@
 ---
-title: "주의 메커니즘을 사용한 인코더-디코더 LSTM으로 시계열 모델링 조 바이든의 대통령직 사임을 예측하는 방법"
+title: "주의 메커니즘을 사용한 인코더-디코더 LSTM으로 시계열 모델링"
 description: ""
 coverImage: "/assets/img/2024-07-27-ATime-SeriesModelusingEncoder-DecoderLSTMwithAttentiontopredictifJoeBidenwillresignthePresidency_0.png"
 date: 2024-07-27 13:58
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "A Time-Series Model using Encoder-Decoder LSTM with Attention to predict if Joe Biden will resign the Presidency"
 link: "https://medium.com/@danielmachinelearning/a-time-series-model-using-encoder-decoder-lstm-with-attention-to-predict-if-joe-biden-will-resign-a9af813d97c8"
+isUpdated: true
+updatedAt: 1723816854388
 ---
+
 
 
 ![2024-07-27-ATime-SeriesModelusingEncoder-DecoderLSTMwithAttentiontopredictifJoeBidenwillresignthePresidency_0.png](/assets/img/2024-07-27-ATime-SeriesModelusingEncoder-DecoderLSTMwithAttentiontopredictifJoeBidenwillresignthePresidency_0.png)

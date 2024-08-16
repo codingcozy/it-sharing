@@ -1,5 +1,5 @@
 ---
-title: "Nodejs에서 크론 잡 스케줄링하는 방법"
+title: "Nodejs에서 node-cron 크론 잡 스케줄링하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-03-SchedulingCronJobsinNodeJS_0.png"
 date: 2024-08-03 20:52
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Scheduling Cron Jobs in NodeJS"
 link: "https://medium.com/@bytePudding/scheduling-cron-jobs-in-node-js-d3a6fcbd65d9"
+isUpdated: true
+updatedAt: 1723816569912
 ---
+
 
 
 <img src="/assets/img/2024-08-03-SchedulingCronJobsinNodeJS_0.png" />

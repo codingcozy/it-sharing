@@ -1,5 +1,5 @@
 ---
-title: "Java의 CompletableFuture 완벽 마스터하기 종합 가이드"
+title: "Java의 CompletableFuture 정리"
 description: ""
 coverImage: "/assets/img/2024-07-26-MasteringCompletableFutureinJavaAComprehensiveGuide_0.png"
 date: 2024-07-26 12:04
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering CompletableFuture in Java A Comprehensive Guide"
 link: "https://medium.com/@alexeynovikov_89393/mastering-completablefuture-in-java-a-comprehensive-guide-743445651ade"
+isUpdated: true
+updatedAt: 1723816830630
 ---
+
 
 
 <img src="/assets/img/2024-07-26-MasteringCompletableFutureinJavaAComprehensiveGuide_0.png" />

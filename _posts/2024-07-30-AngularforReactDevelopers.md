@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Angular for React Developers"
 link: "https://medium.com/@tellmejeffrey/angular-for-react-developers-424c0295f694"
+isUpdated: true
+updatedAt: 1723816453197
 ---
+
 
 
 ![Angular for React Developers](/assets/img/2024-07-30-AngularforReactDevelopers_0.png)

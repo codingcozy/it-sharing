@@ -1,5 +1,5 @@
 ---
-title: "Nextjs 2024년 대형 프로젝트 구조화 완벽 가이드"
+title: "Nextjs 2024년 대형 프로젝트 구조화 하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 20:42
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Nextjs The Ultimate Guide to Structuring Large-Scale Projects in 2024"
 link: "https://dev.to/vyan/mastering-nextjs-the-ultimate-guide-to-structuring-large-scale-projects-in-2024-h4e"
+isUpdated: true
+updatedAt: 1723816521859
 ---
+
 
 
 ## 소개: Next.js 정복하기

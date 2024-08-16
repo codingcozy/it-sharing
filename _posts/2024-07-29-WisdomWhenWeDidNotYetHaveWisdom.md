@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Wisdom, When We Did Not Yet Have Wisdom"
 link: "https://medium.com/@felipeleonulrich/wisdom-when-we-did-not-yet-have-wisdom-d793dae9abe3"
+isUpdated: true
+updatedAt: 1723817015035
 ---
+
 
 
 ## 시

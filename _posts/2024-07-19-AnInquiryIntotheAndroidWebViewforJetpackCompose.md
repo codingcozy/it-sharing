@@ -1,5 +1,5 @@
 ---
-title: "Jetpack Compose에서 Android WebView 사용법 탐구"
+title: "Jetpack Compose에서 Android WebView를 사용하는 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-07-19-AnInquiryIntotheAndroidWebViewforJetpackCompose_0.png"
 date: 2024-07-19 13:34
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "An Inquiry Into the Android WebView for Jetpack Compose"
 link: "https://medium.com/gitconnected/an-inquiry-into-the-android-webview-for-jetpack-compose-35cb52e29622"
+isUpdated: true
+updatedAt: 1723812327570
 ---
 
 
@@ -113,7 +115,6 @@ WebView(
 ## 백프레스 캡처
 
 Accompanist 문서를 따르면 맞춤 WebView의 미진행 구현에서 백프레스 또는 제스처를 캡처하는 것은 captureBackPresses 매개변수를 활용하면 됩니다. WebView 구현은 기본적으로 백프레스 캡처 플래그가 활성화되어 있지만, captureBackPresses 매개변수를 활용하여 동작을 변경할 수 있습니다:
-
 
 <div class="content-ad"></div>
 

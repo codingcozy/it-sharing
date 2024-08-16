@@ -1,5 +1,5 @@
 ---
-title: "Angular에서 Proxy 디자인 패턴 사용 방법 - 완벽 가이드"
+title: "Angular에서 Proxy 디자인 패턴 사용 방법"
 description: ""
 coverImage: "/assets/img/2024-07-30-DesignPatternsProxyinAngular_0.png"
 date: 2024-07-30 17:02
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Design Patterns  Proxy in Angular"
 link: "https://medium.com/design-patterns-proxy-in-angular/design-patterns-proxy-in-angular-8661c1049252"
+isUpdated: true
+updatedAt: 1723816478198
 ---
+
 
 
 마크다운 형식으로 표 태그를 변경합니다.

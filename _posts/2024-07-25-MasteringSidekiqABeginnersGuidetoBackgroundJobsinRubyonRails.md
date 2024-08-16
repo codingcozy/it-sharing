@@ -1,5 +1,5 @@
 ---
-title: " Sidekiq 완벽 가이드 루비 온 레일즈에서 배경 작업 시작하기"
+title: "Sidekiq 완벽 가이드 루비 온 레일즈에서 배경 작업 시작하기"
 description: ""
 coverImage: "/assets/img/2024-07-25-MasteringSidekiqABeginnersGuidetoBackgroundJobsinRubyonRails_0.png"
 date: 2024-07-25 12:02
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: " Mastering Sidekiq A Beginners Guide to Background Jobs in Ruby on Rails"
 link: "https://medium.com/@patrykrogedu/mastering-sidekiq-a-beginners-guide-to-background-jobs-in-ruby-on-rails-b8be07ff1ebf"
+isUpdated: true
+updatedAt: 1723816810626
 ---
+
 
 
 ![링크](/assets/img/2024-07-25-MasteringSidekiqABeginnersGuidetoBackgroundJobsinRubyonRails_0.png)

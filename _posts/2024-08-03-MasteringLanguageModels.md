@@ -1,5 +1,5 @@
 ---
-title: "언어 모델 정복하기 최신 기술과 방법 총정리"
+title: "2024년 최신 언어 모델 정리"
 description: ""
 coverImage: "/assets/img/2024-08-03-MasteringLanguageModels_0.png"
 date: 2024-08-03 21:28
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Language Models"
 link: "https://medium.com/towards-data-science/mastering-language-models-32e1d891511a"
+isUpdated: true
+updatedAt: 1723816517486
 ---
+
 
 
 ## 온도, 상위-p, 상위-k 등을 활용하여 품질-다양성 tradeoff를 탐색하기

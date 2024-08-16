@@ -1,5 +1,5 @@
 ---
-title: "2024년 Angular에서 Composite 디자인 패턴 사용 방법"
+title: "Angular에서 Composite 디자인 패턴 사용 방법"
 description: ""
 coverImage: "/assets/img/2024-07-30-DesignPatternsCompositeinAngular_0.png"
 date: 2024-07-30 16:59
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Design Patterns  Composite in Angular"
 link: "https://medium.com/design-patterns-composite-in-angular/wzorce-projektowe-kompozytowe-w-angular-445c289e4e9f"
+isUpdated: true
+updatedAt: 1723816474640
 ---
+
 
 
 ![이미지](/assets/img/2024-07-30-DesignPatternsCompositeinAngular_0.png)

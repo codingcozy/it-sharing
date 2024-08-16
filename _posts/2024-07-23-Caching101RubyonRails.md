@@ -1,5 +1,5 @@
 ---
-title: "캐싱 기초 Ruby on Rails에서 캐싱하는 방법"
+title: "Ruby on Rails에서 캐싱하는 가장 기본적인 방법"
 description: ""
 coverImage: "/assets/img/2024-07-23-Caching101RubyonRails_0.png"
 date: 2024-07-23 21:55
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Caching 101 Ruby on Rails"
 link: "https://medium.com/@patrickkarsh/caching-101-in-ruby-on-rails-f9c885340041"
+isUpdated: true
+updatedAt: 1723812644408
 ---
+
 
 
 

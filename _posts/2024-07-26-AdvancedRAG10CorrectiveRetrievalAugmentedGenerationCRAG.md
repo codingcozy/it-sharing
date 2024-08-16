@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Advanced RAG 10 Corrective Retrieval Augmented Generation CRAG"
 link: "https://medium.com/ai-advances/advanced-rag-10-corrective-retrieval-augmented-generation-crag-3f5a140796f9"
+isUpdated: true
+updatedAt: 1723816817515
 ---
+
 
 
 이 기사는 흔한 시나리오인 개방형 시험에 참가하는 것으로 시작합니다. 일반적으로 세 가지 전략이 있습니다:

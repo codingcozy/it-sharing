@@ -1,15 +1,16 @@
 ---
-title: "PyEnv와 Poetry 튜토리얼 데이터 사이언스를 위한 궁극의 세팅 방법"
+title: "데이터 사이언스를 위한 PyEnv와 Poetry 세팅 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-07-19-PyEnvPoetryTutorialUltimateDataScienceSetup_0.png"
 date: 2024-07-19 13:36
-ogImage: 
+ogImage:
   url: /assets/img/2024-07-19-PyEnvPoetryTutorialUltimateDataScienceSetup_0.png
 tag: Tech
 originalTitle: "PyEnv , Poetry Tutorial Ultimate Data Science Setup"
 link: "https://medium.com/towards-data-science/pyenv-poetry-tutorial-ultimate-data-science-setup-af0de6d47355"
+isUpdated: true
+updatedAt: 1723812426235
 ---
-
 
 ![이미지](/assets/img/2024-07-19-PyEnvPoetryTutorialUltimateDataScienceSetup_0.png)
 
@@ -87,7 +88,7 @@ echo '[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zsh
 ```
 
 - ~/.zshrc 파일에 `[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"`를 추가합니다.
-- 이 명령은 $PYENV_ROOT/bin 디렉토리가 있는지 확인하여 ([[ -d $PYENV_ROOT/bin ]]), 있다면 $PYENV_ROOT/bin을 PATH에 추가합니다.
+- 이 명령은 $PYENV_ROOT/bin 디렉토리가 있는지 확인하여 ([[-d $PYENV_ROOT/bin]]), 있다면 $PYENV_ROOT/bin을 PATH에 추가합니다.
 - 이렇게 함으로써 pyenv가 셸의 검색 경로에 포함되어 pyenv 명령을 사용할 수 있게 됩니다.
 
 ```js
@@ -97,16 +98,13 @@ echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 - ~/.zshrc 파일에 `eval "$(pyenv init -)"`을 추가합니다.
 - `eval "$(pyenv init -)"`은 새 셸을 시작할 때 pyenv를 초기화합니다. 이 명령은 환경 변수 및 함수를 설정하여 pyenv가 Python 버전을 올바르게 관리할 수 있도록 합니다.
 
-
 <div class="content-ad"></div>
 
 새 터미널 창을 열거나 셸을 재시작하여 이 변경 사항이 적용되도록 해보세요. 아래는 .zshrc 파일 내의 예시 행입니다. 여기서 다른 내용은 무시하고 마지막 세 줄만 보세요.
 
-
 $ source ~/.zshrc
 $ echo 'export PATH="$HOME/.pyenv/bin:$PATH"' >> ~/.zshrc
 $ echo 'eval "$(pyenv init --path)"' >> ~/.zshrc
-
 
 또는 `where pyenv`를 실행하여 PyEnv 이진 파일이 올바른 위치에 있는지 확인할 수도 있어요.
 
@@ -126,7 +124,6 @@ pyenv install 3.11.4
 
 <div class="content-ad"></div>
 
-
 <img src="/assets/img/2024-07-19-PyEnvPoetryTutorialUltimateDataScienceSetup_2.png" />
 
 현재 디렉토리(홈)에 있다는 것을 알 수 있습니다. 시스템 Python이 현재 설정되어 있습니다. 다음 명령어를 사용하여 Python 버전을 변경할 수 있습니다:
@@ -135,11 +132,9 @@ pyenv install 3.11.4
 - pyenv local `version` — 특정 디렉토리에 대한 Python 버전
 - pyenv global `version` — 사용자에 대한 전역 Python 버전
 
-이제 pyenv global 3.11.4를 실행한 다음 pyenv versions를 실행하면 
-
+이제 pyenv global 3.11.4를 실행한 다음 pyenv versions를 실행하면
 
 <div class="content-ad"></div>
-
 
 ![이미지](/assets/img/2024-07-19-PyEnvPoetryTutorialUltimateDataScienceSetup_3.png)
 
@@ -148,7 +143,6 @@ pyenv install 3.11.4
 만약 이 디렉토리만을 위해 Python 버전을 변경하고 싶다면, 다음과 같이 `pyenv local 버전` 명령어를 사용할 수 있어요:
 
 ![이미지](/assets/img/2024-07-19-PyEnvPoetryTutorialUltimateDataScienceSetup_4.png)
-
 
 <div class="content-ad"></div>
 
@@ -162,7 +156,6 @@ PATH는 python이나 pip과 같은 명령어를 실행할 때 검색되는 모�
 
 <div class="content-ad"></div>
 
-
 /Users/egorhowell/.pyenv/shims
 /opt/homebrew/bin:/opt/homebrew/sbin
 /Users/egorhowell/.local/bin
@@ -175,13 +168,11 @@ PATH는 python이나 pip과 같은 명령어를 실행할 때 검색되는 모�
 /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
 /Applications/iTerm.app/Contents/Resources/utilities
 
-
 제 PATH에서 첫 번째 줄을 주목해주세요. 이것은 Shim으로, Python 명령어를 PyEnv로 리디렉션합니다.
 
 # Poetry
 
 ## 이것은 무엇인가요?
-
 
 <div class="content-ad"></div>
 
@@ -221,7 +212,6 @@ Poetry가 설치되었는지 확인하려면 `poetry --version`을 실행하면 
 
 모든 질문에 답한 후에는 현재 프로젝트 디렉토리에 pyproject.toml 파일이 생성됩니다. 이 파일은 열어보면 다음과 같아야 합니다.
 
-
 [tool.poetry]
 name = "medium-articles"
 version = "0.1.0"
@@ -235,7 +225,6 @@ python = "^3.11"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-
 
 pyproject.toml은 Poetry 자체가 아니라 Python과 Pep에 속하는 것이라는 점을 유의해주세요.
 
@@ -295,21 +284,19 @@ poetry env info 명령을 실행하여 올바르게 설치되었는지 확인할
 
 <div class="content-ad"></div>
 
-
 가상환경
-Python:         3.11.8
-구현체:          CPython
-경로:           /Users/egorhowell/Library/Caches/pypoetry/virtualenvs/medium-articles-lMbxnF7V-py3.11
-실행 파일:       /Users/egorhowell/Library/Caches/pypoetry/virtualenvs/medium-articles-lMbxnF7V-py3.11/bin/python
-유효 여부:       True
+Python: 3.11.8
+구현체: CPython
+경로: /Users/egorhowell/Library/Caches/pypoetry/virtualenvs/medium-articles-lMbxnF7V-py3.11
+실행 파일: /Users/egorhowell/Library/Caches/pypoetry/virtualenvs/medium-articles-lMbxnF7V-py3.11/bin/python
+유효 여부: True
 
 기본
-플랫폼:     darwin
-운영 체제:  posix
-Python:     3.11.8
-경로:       /Users/egorhowell/.pyenv/versions/3.11.8
+플랫폼: darwin
+운영 체제: posix
+Python: 3.11.8
+경로: /Users/egorhowell/.pyenv/versions/3.11.8
 실행 파일: /Users/egorhowell/.pyenv/versions/3.11.8/bin/python3.11
-
 
 프로젝트 루트 디렉토리에 poetry.lock 파일이 생성됩니다. 이 파일에는 모든 패키지와 의존성이 포함되어 있습니다. 이 파일은 나중에 재현 가능한 환경을 활성화하는 데 사용되며 버전 관리에 중요합니다.
 

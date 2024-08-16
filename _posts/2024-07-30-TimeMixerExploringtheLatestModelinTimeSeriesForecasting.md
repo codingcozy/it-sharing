@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "TimeMixer Exploring the Latest Model in Time Series Forecasting"
 link: "https://medium.com/towards-data-science/timemixer-exploring-the-latest-model-in-time-series-forecasting-056d9c883f46"
+isUpdated: true
+updatedAt: 1723817075009
 ---
+
 
 
 ![Time Series Forecasting](/assets/img/2024-07-30-TimeMixerExploringtheLatestModelinTimeSeriesForecasting_0.png)

@@ -1,5 +1,5 @@
 ---
-title: "안전한 정보 공유를 위한 JSON 웹 토큰 JWT 이해하기"
+title: "JSON 웹 토큰 JWT 이해하기"
 description: ""
 coverImage: "/assets/img/2024-07-28-UnderstandingJSONWebTokensJWTforSecureInformationSharing_0.png"
 date: 2024-07-28 13:50
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding JSON Web Tokens JWT for Secure Information Sharing"
 link: "https://dev.to/vyan/understanding-json-web-tokens-jwt-for-secure-information-sharing-5c3a"
+isUpdated: true
+updatedAt: 1723816951353
 ---
+
 
 
 소프트웨어 아키텍처의 세계에서, 특히 다수의 당사자 및 안전한 인증/승인을 다룰 때, 신원 증명을 공유하기 위한 강력한 메커니즘이 중요합니다. 가장 안전하고 널리 사용되는 방법 중 하나는 JSON 웹 토큰(JWT) 🔏 입니다.

@@ -1,5 +1,5 @@
 ---
-title: "Java 코드 최적화를 위한 static 블록 활용 베스트 프랙티스"
+title: "Java 코드 최적화를 위한 static 블록 활용하는 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-07-23-BestPracticesforOptimizingYourJavaCodewithStaticBlocks_0.png"
 date: 2024-07-23 11:31
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Best Practices for Optimizing Your Java Code with Static Blocks"
 link: "https://medium.com/@kouomeukevin/best-practices-for-optimizing-your-java-code-with-static-blocks-911d40420f2f"
+isUpdated: true
+updatedAt: 1723812764073
 ---
+
 
 
 자바 프로그래밍에서 개발자들이 종종 직면하는 문제 중 하나는 초기화되지 않은 정적 변수에 의해 발생하는 오류입니다. 이러한 오류는 예상치 못한 동작, 충돌 또는 코드의 비효율성으로 이어질 수 있습니다.

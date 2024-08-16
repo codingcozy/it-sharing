@@ -1,14 +1,17 @@
 ---
-title: "2024 최신 Java 고급 동시성 인터뷰 질문 모음"
+title: "2024 최신 Java 개발자 인터뷰 질문 모음"
 description: ""
 coverImage: "/assets/img/2024-07-23-JavaAdvancedConcurrencyInterviewQuestions01_0.png"
 date: 2024-07-23 21:51
-ogImage:
+ogImage: 
   url: /assets/img/2024-07-23-JavaAdvancedConcurrencyInterviewQuestions01_0.png
 tag: Tech
 originalTitle: "Java Advanced Concurrency Interview Questions01"
 link: "https://medium.com/@vikas.taank_40391/java-advanced-concurrency-interview-questions-01-5ca048dfb844"
+isUpdated: true
+updatedAt: 1723812732928
 ---
+
 
 ![image](/assets/img/2024-07-23-JavaAdvancedConcurrencyInterviewQuestions01_0.png)
 

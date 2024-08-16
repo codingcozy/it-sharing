@@ -1,5 +1,5 @@
 ---
-title: "인터랙티브 모바일 웹 앱을 위한 흔들림 감지 구현 JavaScript"
+title: "인터랙티브 모바일 웹 앱을 위한 흔들림 감지 구현하기"
 description: ""
 coverImage: "/assets/img/2024-07-30-ImplementingShakeDetectionforInteractiveMobileWebAppsJavaScript_0.png"
 date: 2024-07-30 17:02
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Implementing Shake Detection for Interactive Mobile Web Apps JavaScript"
 link: "https://medium.com/@louistrinh/implementing-shake-detection-for-interactive-mobile-web-apps-javascript-4eb8c2393055"
+isUpdated: true
+updatedAt: 1723817112333
 ---
+
 
 
 이미지 태그를 Markdown 형식으로 변경하십시오.

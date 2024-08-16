@@ -1,5 +1,5 @@
 ---
-title: "AI 모델의 유효 기간  지속적 학습이 해결책일까"
+title: "AI 모델의 유효 기간 지속적 학습이 해결책일까"
 description: ""
 coverImage: "/assets/img/2024-08-03-AImodelshaveanexpirydateContinualLearningmaybeananswer_0.png"
 date: 2024-08-03 21:09
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "AI models have an expiry date  Continual Learning may be an answer"
 link: "https://medium.com/towards-data-science/ai-models-have-expiry-date-9a6e2c9c0a9f"
+isUpdated: true
+updatedAt: 1723817085710
 ---
+
 
 
 ## 변화가 유일한 상수인 세상에서, 우리가 AI 모델에 지속적 학습 접근 방식이 필요한 이유

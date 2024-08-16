@@ -1,5 +1,5 @@
 ---
-title: "자바 다시 배우기 Exception과 Error의 차이점 이해하기"
+title: "자바  Exception과 Error의 차이점 정리"
 description: ""
 coverImage: "/assets/img/2024-07-23-RelearningJavaWhatstheDifferenceBetweenExceptionandError_0.png"
 date: 2024-07-23 21:53
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Relearning Java Whats the Difference Between Exception and Error"
 link: "https://medium.com/@cstoppgmr/relearning-java-whats-the-difference-between-exception-and-error-434c915bd0ef"
+isUpdated: true
+updatedAt: 1723812800239
 ---
+
 
 
 

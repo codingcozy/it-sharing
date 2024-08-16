@@ -1,5 +1,5 @@
 ---
-title: "경험 없는 독학 개발자의 위험 신호 3가지"
+title: "프론트엔드 개발을 독학으로 공부하면 안되는 이유 3가지"
 description: ""
 coverImage: "/assets/img/2024-07-24-ThreeRed-FlagsofanInexperiencedSelf-taughtDeveloper_0.png"
 date: 2024-07-24 12:11
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Three Red-Flags of an Inexperienced Self-taught Developer"
 link: "https://medium.com/gitconnected/three-red-flags-of-an-inexperienced-self-taught-developer-d9f72e054224"
+isUpdated: true
+updatedAt: 1723812969211
 ---
+
 
 
 

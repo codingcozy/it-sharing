@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How I Use ChatGPT As A Data Scientist"
 link: "https://medium.com/towards-data-science/how-i-use-chatgpt-as-a-data-scientist-0730fa1e21c2"
+isUpdated: true
+updatedAt: 1723817005338
 ---
+
 
 
 ![이미지](/assets/img/2024-07-29-HowIUseChatGPTAsADataScientist_0.png)

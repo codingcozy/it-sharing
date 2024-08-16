@@ -1,5 +1,5 @@
 ---
-title: "파이썬으로 페어 트레이딩 전략 구축하는 방법"
+title: "파이썬으로 페어 트레이딩 개발하는 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-07-22-BuildingAPairs-TradingStrategyWithPython_0.png"
 date: 2024-07-22 11:35
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Building A Pairs-Trading Strategy With Python"
 link: "https://medium.com/gitconnected/building-a-pairs-trading-strategy-with-python-c27a57732c30"
+isUpdated: true
+updatedAt: 1723812573309
 ---
+
 
 
 페어 트레이딩은 양적 거래자들이 종종 개별 자산에 집중하는 대신 포트폴리오를 관리하는 데 사용하는 정교한 접근 방식입니다. 본 문서에서는 두 가지 밀접한 관련 금융 상품의 상대 가격 변동에서 이윤을 얻기 위해 설계된 시장 중립 전략의 분석을 탐색할 것입니다. 이 분석을 위해 자유로운 접근이 가능한 Yahoo Finance 데이터를 활용한 시뮬레이션을 진행할 것입니다.

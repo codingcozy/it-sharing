@@ -1,5 +1,5 @@
 ---
-title: "Signal Store 출시, TypeScript, Nodejs, Angular 전문가 Mark Thompson와의 인터뷰 - 24화 30분"
+title: "Signal Store 출시, TypeScript, Nodejs, Angular 전문가 Mark Thompson와의 인터뷰"
 description: ""
 coverImage: "/assets/img/2024-08-03-Episode2430SignalStoreReleaseTypeScriptNodejsMarkThompsononAngular_0.png"
 date: 2024-08-03 20:48
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Episode 24 30 Signal Store Release, TypeScript , Nodejs, Mark Thompson on Angular"
 link: "https://medium.com/ng-news/episode-24-30-signal-store-release-typescript-node-js-mark-thompson-on-angular-74f8f8124d93"
+isUpdated: true
+updatedAt: 1723817102394
 ---
+
 
 
 

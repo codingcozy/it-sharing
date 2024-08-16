@@ -1,5 +1,5 @@
 ---
-title: "Nodejs 환경 보안 강화 AWS Secrets Manager 사용법 단계별 가이드"
+title: "Nodejs 환경 보안을 위한 AWS Secrets Manager 사용법"
 description: ""
 coverImage: "/assets/img/2024-08-03-SecureYourNodejsEnvironmentAStep-by-StepGuidetoUsingAWSSecretsManager_0.png"
 date: 2024-08-03 20:53
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Secure Your Nodejs Environment A Step-by-Step Guide to Using AWS Secrets Manager"
 link: "https://medium.com/@abhi28005/secure-your-node-js-environment-a-step-by-step-guide-to-using-aws-secrets-manager-b3ef72e41d24"
+isUpdated: true
+updatedAt: 1723816612980
 ---
+
 
 
 <img src="/assets/img/2024-08-03-SecureYourNodejsEnvironmentAStep-by-StepGuidetoUsingAWSSecretsManager_0.png" />

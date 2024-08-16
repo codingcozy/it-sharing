@@ -1,5 +1,5 @@
 ---
-title: "많은 개발자들이 잘 모르는 React의 숨겨진 기능들"
+title: "시니어 개발자들도 잘 모르는 React의 숨겨진 기능들"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 20:47
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Some lesser-known aspects of React that many developers might not be fully aware"
 link: "https://dev.to/hemant_the_devlpr/some-lesser-known-aspects-of-react-that-many-developers-might-not-be-fully-aware-405b"
+isUpdated: true
+updatedAt: 1723816587482
 ---
+
 
 
 ## 리액트의 많은 개발자들이 완전히 알지 못하는 몇 가지 알려지지 않은 측면을 소개합니다:

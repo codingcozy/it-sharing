@@ -1,5 +1,5 @@
 ---
-title: " 스위스, 오픈소스로 전환한다 2024년 최신 동향"
+title: "스위스 오픈소스 2024년 최신 동향"
 description: ""
 coverImage: "/assets/img/2024-07-22-SwitzerlandGoesOpenSource_0.png"
 date: 2024-07-22 11:34
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: " Switzerland Goes Open Source"
 link: "https://medium.com/@tomaszs2/switzerland-goes-open-source-58a58046024f"
+isUpdated: true
+updatedAt: 1723816761100
 ---
+
 
 
 

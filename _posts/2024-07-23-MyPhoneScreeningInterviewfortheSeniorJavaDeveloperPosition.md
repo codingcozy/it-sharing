@@ -1,5 +1,5 @@
 ---
-title: "시니어 자바 개발자 면접 준비 사항 및 통과 방법"
+title: "시니어 자바 개발자 면접 준비 및 질문 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-23 11:28
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "My Phone Screening Interview for the Senior Java Developer Position"
 link: "https://medium.com/@kolheankita15/my-phone-screening-interview-for-the-senior-java-developer-position-d93813b62123"
+isUpdated: true
+updatedAt: 1723812790191
 ---
+
 
 
 이번 면접에서 면접관은 Java, Spring, Microservice, SQL, Kafka, 그리고 Hibernate에서 내 자신을 평가하라고 했어요. 아래에는 이번 면접에서 받은 모든 질문들을 적어봤어요.

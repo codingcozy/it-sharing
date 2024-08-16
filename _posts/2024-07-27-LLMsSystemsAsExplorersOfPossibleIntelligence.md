@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "LLMs Systems As Explorers Of Possible Intelligence"
 link: "https://medium.com/@alcarazanthony1/llms-systems-as-explorers-of-possible-intelligence-1f5db3204b25"
+isUpdated: true
+updatedAt: 1723816878293
 ---
+
 
 
 LLM(대형 언어 모델)은 인간 지능을 모방하면서 동시에 분화하는 방식으로 AI 인식의 경계를 넓혀 나가고 있어요.

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Gemini 15 Pro Experimental 0801 This Time Better Than GPT-4, for Sure"
 link: "https://medium.com/@towards-agi/gemini-1-5-pro-experimental-0801-this-time-better-than-gpt-4-for-sure-e3c9531db252"
+isUpdated: true
+updatedAt: 1723817110203
 ---
+
 
 
 <img src="/assets/img/2024-08-03-Gemini15ProExperimental0801ThisTimeBetterThanGPT-4forSure_0.png" />

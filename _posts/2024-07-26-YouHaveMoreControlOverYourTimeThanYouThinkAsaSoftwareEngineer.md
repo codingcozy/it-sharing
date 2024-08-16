@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "You Have More Control Over Your Time Than You Think As a Software Engineer"
 link: "https://medium.com/gitconnected/you-have-more-control-over-your-time-than-you-think-as-a-software-engineer-8f218d815860"
+isUpdated: true
+updatedAt: 1723816849409
 ---
+
 
 
 ## 파워를 되찾아요

@@ -1,5 +1,5 @@
 ---
-title: "최신 소프트웨어 엔지니어링 Part 3 효과적인 문서화 방법"
+title: "개발자라면 알아둬야할 효과적인 문서화 방법"
 description: ""
 coverImage: "/assets/img/2024-07-25-ModernSoftwareEngineeringPart3Documentation_0.png"
 date: 2024-07-25 12:10
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Modern Software Engineering  Part 3 Documentation"
 link: "https://medium.com/better-programming/modern-software-engineering-part-3-documentation-e4978192e1cf"
+isUpdated: true
+updatedAt: 1723816355072
 ---
+
 
 
 

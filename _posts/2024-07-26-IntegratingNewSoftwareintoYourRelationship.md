@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Integrating New Software into Your Relationship"
 link: "https://medium.com/brain-labs/integrating-new-software-into-your-relationship-407e3e0a37ec"
+isUpdated: true
+updatedAt: 1723816837089
 ---
+
 
 
 <img src="/assets/img/2024-07-26-IntegratingNewSoftwareintoYourRelationship_0.png" />

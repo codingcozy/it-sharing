@@ -1,5 +1,5 @@
 ---
-title: "생성형 AI의 경제학 2024 최신 분석"
+title: "생성형 AI 프로그래밍 2024 최신 동향 정리"
 description: ""
 coverImage: "/assets/img/2024-08-03-TheEconomicsofGenerativeAI_0.png"
 date: 2024-08-03 21:13
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Economics of Generative AI"
 link: "https://medium.com/towards-data-science/economics-of-generative-ai-75f550288097"
+isUpdated: true
+updatedAt: 1723813073587
 ---
+
 
 
 ## 현재 기술과 시장에 대해 우리가 알고 있는 것을 기반으로 생성적 AI의 비즈니스 모델은 무엇일까요?

@@ -1,5 +1,5 @@
 ---
-title: "파이썬으로 힙우선순위 큐을 처음부터 재미있게 코딩하는 방법"
+title: "파이썬으로 힙우선순위 큐 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-23-CodingAHeapPriorityQueueInPythonForFunFromScratch_0.png"
 date: 2024-07-23 22:04
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Coding A Heap Priority Queue In Python For Fun From Scratch"
 link: "https://medium.com/@zlliu/coding-a-heap-priority-queue-in-python-for-fun-from-scratch-4360c9c7a333"
+isUpdated: true
+updatedAt: 1723812663742
 ---
+
 
 
 만약 힙이 어떻게 동작하는지 이해하고 싶다면만 바꿔보세요.

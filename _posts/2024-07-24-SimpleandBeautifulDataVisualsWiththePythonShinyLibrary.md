@@ -1,5 +1,5 @@
 ---
-title: "Python Shiny 라이브러리로 간단하고 아름다운 데이터 시각화하는 방법"
+title: "Python Shiny 라이브러리로 데이터 시각화하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-24-SimpleandBeautifulDataVisualsWiththePythonShinyLibrary_0.png"
 date: 2024-07-24 12:15
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Simple and Beautiful Data Visuals With the Python Shiny Library"
 link: "https://medium.com/gitconnected/simple-and-beautiful-data-visuals-with-the-python-shiny-library-ca5a79da810e"
+isUpdated: true
+updatedAt: 1723812925164
 ---
+
 
 
 

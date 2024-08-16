@@ -1,5 +1,5 @@
 ---
-title: "Git Rebase 군단, 일어서라"
+title: "Git Rebase를 제대로 사용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-23-GitRebaseGangRiseUp_0.png"
 date: 2024-07-23 22:06
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Git Rebase Gang, Rise Up"
 link: "https://medium.com/@seniorbrogrammer/git-rebase-gang-rise-up-ae31487d9436"
+isUpdated: true
+updatedAt: 1723812698070
 ---
+
 
 
 음, 나는 Crowdstrike에서 Windows를 사용하지 않아서 안전 모드에서 머신을 부팅하는 서버 룸에 가둬져 있지 않아. 따라서 이제 소프트웨어 엔지니어링에서 가장 중요한 것을 논의할 시간이다: 버전 관리.

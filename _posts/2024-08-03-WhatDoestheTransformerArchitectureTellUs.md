@@ -1,5 +1,5 @@
 ---
-title: "트랜스포머 아키텍처가 알려주는 것들"
+title: "트랜스포머 아키텍처 정리"
 description: ""
 coverImage: "/assets/img/2024-08-03-WhatDoestheTransformerArchitectureTellUs_0.png"
 date: 2024-08-03 21:10
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "What Does the Transformer Architecture Tell Us"
 link: "https://medium.com/towards-data-science/what-does-the-transformer-architecture-tell-us-cd3a4fd6a59d"
+isUpdated: true
+updatedAt: 1723816598875
 ---
+
 
 
 ![이미지](/assets/img/2024-08-03-WhatDoestheTransformerArchitectureTellUs_0.png)

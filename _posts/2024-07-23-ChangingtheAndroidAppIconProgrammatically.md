@@ -1,5 +1,5 @@
 ---
-title: "안드로이드 앱 아이콘을 프로그래밍으로 변경하는 방법"
+title: "안드로이드 앱 아이콘 변경하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-23-ChangingtheAndroidAppIconProgrammatically_0.png"
 date: 2024-07-23 21:57
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Changing the Android App Icon Programmatically"
 link: "https://medium.com/@callmeryan/changing-the-android-app-icon-programmatically-c913550330d"
+isUpdated: true
+updatedAt: 1723812655309
 ---
+
 
 
 요즘, 𝕏 Blue 사용자들이 앱 아이콘을 변경할 수 있는 기능이 공지되었습니다. 이 기능은 Reddit 앱도 비슷한 기능을 제공하고 있습니다.

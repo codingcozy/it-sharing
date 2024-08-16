@@ -1,5 +1,5 @@
 ---
-title: "면접관으로서 50회 이상 머신러닝 면접을 통해 얻은 통찰 "
+title: "머신러닝 면접에서 가장 많이 나오는 이야기"
 description: ""
 coverImage: "/assets/img/2024-07-24-What50MLInterviewsasanInterviewerHaveTaughtMe_0.png"
 date: 2024-07-24 12:14
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "What 50 ML Interviews as an Interviewer Have Taught Me"
 link: "https://medium.com/towards-data-science/what-50-ml-interviews-as-an-interviewer-have-taught-me-6a72f7344eb1"
+isUpdated: true
+updatedAt: 1723816798468
 ---
+
 
 
 기술 면접을 맞이하는 것이 힘들다고 생각했다면, 면접을 진행해 보세요. 저는 남을 업신여겨 외면하며 당신을 내려다보는 창피한 면접관들에 대해 얘기하는 게 아니에요. 고통이 끝나기를 바라는 그런 상황이 아니라, 긍정적인 기억을 만들어준 면접관들에 대해 이야기하고 싶어요.

@@ -1,5 +1,5 @@
 ---
-title: "더 나은 코드 품질과 유연성을 원한다면 If-Else를 버려야 하는 이유"
+title: "실력있는 개발자들이 If-Else를 더이상 사용하지 않는 이유"
 description: ""
 coverImage: "/assets/img/2024-07-25-DropTheIf-ElseIfYouWantBetterCodeQualityandHigherFlexibility_0.png"
 date: 2024-07-25 12:05
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Drop The If-Else If You Want Better Code Quality and Higher Flexibility"
 link: "https://medium.com/the-better-software-initiative/drop-the-if-else-if-you-want-better-code-quality-and-higher-flexibility-8a466fa49771"
+isUpdated: true
+updatedAt: 1723813211195
 ---
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Android 앱 링크에 관한 궁금증 해결하기"
+title: "Android 앱 링크 사용 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-07-24-AnInquiryintoAndroidsAppLinks_0.png"
 date: 2024-07-24 12:06
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "An Inquiry into Androids App Links"
 link: "https://medium.com/gitconnected/an-inquiry-into-androids-app-links-2d6918666c9e"
+isUpdated: true
+updatedAt: 1723813129098
 ---
+
 
 
 파이어베이스가 내년 2025년 8월에 다이나믹 링크 기능을 폐기한다는 점을 감안하면, 최근에 우리는 방향 전환을 했고 안드로이드 앱 링크를 우리 애플리케이션에 통합하기 시작했습니다. 이 과정은 특별히 고통스럽지는 않았지만, 공식 문서에 몇 가지 빈틈과 함정이 있음을 알아 차렸고, 같은 프로세스를 거치는 사람들을 위해 이 기사에서 이를 다루고자 합니다.

@@ -1,5 +1,5 @@
 ---
-title: "자바에서 참조와 객체의 동일성정수 캐싱 이해하기"
+title: "자바에서 참조와 객체 캐싱하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-26 12:00
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Reference and Object Equality in JavaInteger caching"
 link: "https://medium.com/@vikas.taank_40391/reference-and-object-equality-in-java-integer-caching-e82e3491ce7e"
+isUpdated: true
+updatedAt: 1723813353128
 ---
+
 
 
 자바 언어에서 얕은 비교 == 연산자는 객체의 참조(또는 주소)를 비교하며 값을 심층적으로 비교하지 않습니다. 그러나 객체에 저장된 값을 비교하려면 등호(==) 연산자 대신 equals 연산자를 사용해야 합니다.

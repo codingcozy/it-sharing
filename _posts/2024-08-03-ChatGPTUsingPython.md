@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "ChatGPT Using Python"
 link: "https://medium.com/@jrday3/chatgpt-using-python-c416b887239f"
+isUpdated: true
+updatedAt: 1723817086791
 ---
+
 
 
 ![image](/assets/img/2024-08-03-ChatGPTUsingPython_0.png)

@@ -1,5 +1,5 @@
 ---
-title: "C에서 캡슐화, 상속, 다형성 마스터하는 방법"
+title: "C언어 캡슐화, 상속, 다형성 정리"
 description: ""
 coverImage: "/assets/img/2024-07-24-MasteringEncapsulationInheritanceandPolymorphisminC_0.png"
 date: 2024-07-24 12:10
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Encapsulation, Inheritance, and Polymorphism in C"
 link: "https://medium.com/@jinlow/mastering-encapsulation-inheritance-and-polymorphism-in-c-88843b0821b8"
+isUpdated: true
+updatedAt: 1723813155118
 ---
+
 
 
 ## 실용적인 예제와 모범 사례로 필수 객체 지향 프로그래밍(OOP) 개념 학습

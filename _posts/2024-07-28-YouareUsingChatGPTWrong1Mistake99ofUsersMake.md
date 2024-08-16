@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT 제대로 활용하는 방법  99의 사용자가 저지르는 1 실수"
+title: "개발자가 ChatGPT 제대로 활용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-28-YouareUsingChatGPTWrong1Mistake99ofUsersMake_0.png"
 date: 2024-07-28 14:00
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "You are Using ChatGPT Wrong  1 Mistake 99 of Users Make"
 link: "https://medium.com/ai-in-plain-english/you-are-using-chatgpt-wrong-1-mistake-99-of-users-make-fe0263d52481"
+isUpdated: true
+updatedAt: 1723816958942
 ---
+
 
 
 Prompt Engineering “Gurus”님들은 같은 프롬프트 오류를 계속 추천하고 있어요.

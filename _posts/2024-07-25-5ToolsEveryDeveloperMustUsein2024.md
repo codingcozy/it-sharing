@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "5 Tools Every Developer Must Use in 2024"
 link: "https://dev.to/arindam_1729/5-tools-every-developer-must-use-in-2024-438"
+isUpdated: true
+updatedAt: 1723816803180
 ---
+
 
 
 개발자로서 배워야 할 것들이 많습니다! 중요한 것에 집중하는 것이 매우 중요하죠. 많은 개발자들은 제로 베이스에서 작업을 선호하지만 때로는 작업량이 방대해서 이러한 도구를 사용하면 일을 더 쉽게 할 수도 있습니다.

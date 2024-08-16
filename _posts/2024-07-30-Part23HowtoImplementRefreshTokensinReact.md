@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Part 2 3 How to Implement Refresh Tokens in React"
 link: "https://dev.to/zenstok/part-23-how-to-implement-refresh-tokens-in-react-84c"
+isUpdated: true
+updatedAt: 1723817054736
 ---
+
 
 
 안녕하세요!

@@ -1,5 +1,5 @@
 ---
-title: "ExpressoTS Render 엔진의 모든 것"
+title: "ExpressoTS Render 엔진 개념 및 내용 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-23 21:47
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "ExpressoTS Render Engine"
 link: "https://dev.to/expressots/expressots-render-engine-2lpi"
+isUpdated: true
+updatedAt: 1723812859983
 ---
+
 
 
 ## 렌더 엔진

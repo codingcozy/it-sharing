@@ -1,5 +1,5 @@
 ---
-title: "핵심 질문 Vertical Slice는 모듈화된 모놀리식 구조일 뿐인가"
+title: "Vertical Slice는 모듈화된 모놀리식 구조인가?"
 description: ""
 coverImage: "/assets/img/2024-07-21-TheCoreQuestionAreVerticalSlicesJustModularMonoliths_0.png"
 date: 2024-07-21 11:29
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Core Question Are Vertical Slices Just Modular Monoliths"
 link: "https://medium.com/@rico-fritzsche/the-core-question-are-vertical-slices-just-modular-monoliths-9b1ef2358c53"
+isUpdated: true
+updatedAt: 1723816748736
 ---
+
 
 
 <img src="/assets/img/2024-07-21-TheCoreQuestionAreVerticalSlicesJustModularMonoliths_0.png" />

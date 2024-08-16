@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Learn Anything with AI and the Feynman Technique"
 link: "https://medium.com/towards-artificial-intelligence/learn-anything-with-ai-and-the-feynman-technique-00a33f6a02bc"
+isUpdated: true
+updatedAt: 1723816935057
 ---
+
 
 
 회원이 아니십니까? Medium에서 무료로 읽을 수 있어요!

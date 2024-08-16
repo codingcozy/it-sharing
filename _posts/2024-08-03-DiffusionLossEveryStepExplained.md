@@ -1,5 +1,5 @@
 ---
-title: "딥러닝의 Diffusion Loss 단계별 이해하기"
+title: "딥러닝의 Diffusion Loss 정리"
 description: ""
 coverImage: "/assets/img/2024-08-03-DiffusionLossEveryStepExplained_0.png"
 date: 2024-08-03 21:15
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Diffusion Loss Every Step Explained"
 link: "https://medium.com/towards-data-science/diffusion-loss-every-step-explained-8c19c5e1349b"
+isUpdated: true
+updatedAt: 1723813264948
 ---
+
 
 
 이미지 생성 분야에서 활기찬 시기에 Diffusion 모델을 중심으로 한 수학과 안정적 확산 모델 뒤에 숨겨진 직관에 초점을 맞추어 이 게시물에서 설명할 것입니다.

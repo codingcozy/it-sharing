@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Join us for the next Frontend Challenge Recreation Edition"
 link: "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-recreation-edition-222n"
+isUpdated: true
+updatedAt: 1723816808421
 ---
+
 
 
 커뮤니티가 선호하는 프론트엔드 챌린지가 돌아왔어요!

@@ -1,5 +1,5 @@
 ---
-title: "웹 성능 최적화를 위한 요청 워터폴 이해 핵심 가이드"
+title: "웹 성능 최적화를 위한 요청 워터폴 방식 적용"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-23 21:50
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding Request Waterfalls A Key to Optimizing Web Performance"
 link: "https://dev.to/h_n_agnihotri/understanding-request-waterfalls-a-key-to-optimizing-web-performance-46i1"
+isUpdated: true
+updatedAt: 1723813282894
 ---
+
 
 
 요청 폭포, "폭포 차트"로 시각화된 것은 웹 개발과 성능 분석에서 필수적인 도구입니다. 웹 페이지 내 자원 로딩의 순서와 시간을 보여주어 개발자들이 성능 문제를 진단하고 로딩 시간을 최적화하는 데 도움이 됩니다. 요청 폭포의 구성 요소와 효과적인 활용 방법에 대해 알아봅시다.

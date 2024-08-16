@@ -1,5 +1,5 @@
 ---
-title: "지식 그래프 자동 생성 방법 최신 기술 및 도구 소개"
+title: "지식 그래프 자동 생성 방법"
 description: ""
 coverImage: "/assets/img/2024-07-27-AutomatingKnowledgeGraphConstruction_0.png"
 date: 2024-07-27 13:59
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Automating Knowledge Graph Construction"
 link: "https://medium.com/@alcarazanthony1/automating-knowledge-graph-construction-553f5ffc2f3a"
+isUpdated: true
+updatedAt: 1723816860278
 ---
+
 
 
 GenAI 혁명 코퍼스는 기업 지식에 기반하며, 이를 인간과 기계가 쉽게 이해하고 활용할 수 있는 구조로 구성될 것입니다.

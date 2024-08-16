@@ -1,5 +1,5 @@
 ---
-title: "자바스크립트 프레임워크 비교 React, Vuejs, Angular 분석"
+title: "자바스크립트 프레임워크 비교 React, Vuejs, Angular 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-27 13:55
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Comparing JavaScript Frameworks React, Vuejs, and Angular"
 link: "https://medium.com/@kasata/comparing-javascript-frameworks-react-vue-js-and-angular-37747f09dc92"
+isUpdated: true
+updatedAt: 1723816876485
 ---
+
 
 
 웹 개발의 끊임없이 진화하는 세계에서는 올바른 JavaScript 프레임워크를 선택하는 것이 프로젝트의 성공에 상당한 영향을 미칠 수 있습니다. React, Vue.js, 그리고 Angular은 오늘날 가장 인기 있는 프레임워크 중 세 개입니다. 각각이 각자의 장단점을 가지고 있어 다른 유형의 프로젝트에 적합합니다. 이 기사에서는 이러한 프레임워크를 비교하여 정보를 얻을 수 있도록 도와드리겠습니다.

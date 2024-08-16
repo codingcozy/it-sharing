@@ -1,5 +1,5 @@
 ---
-title: "Angular 애플리케이션 성능을 망치는 일반적인 관행 10가지"
+title: "Angular 애플리케이션 성능을 망치는 습관 10가지"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 20:48
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Common Practices That Kill Performance in Angular Applications"
 link: "https://medium.com/@erick.98zanetti.98/common-practices-that-kill-performance-in-angular-applications-e0a25a5870cd"
+isUpdated: true
+updatedAt: 1723817095301
 ---
+
 
 
 고성능 Angular 앱을 개발하려면 흔히 범하는 함정을 피해야 합니다. 성능에 해를 끼치는 주요 사례와 그 해결 방법을 살펴보겠습니다.

@@ -1,5 +1,5 @@
 ---
-title: "SLA 원칙으로 자바 코드를 더 읽기 쉽고 유지보수하기 쉽게 만드는 방법"
+title: "SLA 원칙으로 자바 코드를 더 쉽게 작성하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-22-MakeYourJavaCodeMoreReadableandMaintainableWiththeSLAPrinciple_0.png"
 date: 2024-07-22 11:28
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Make Your Java Code More Readable and Maintainable With the SLA Principle"
 link: "https://medium.com/@kouomeukevin/make-your-java-code-more-readable-and-maintainable-with-the-sla-principle-baf4542e4e4e"
+isUpdated: true
+updatedAt: 1723812597897
 ---
+
 
 
 더러운 코드를 작성하는 것은 고통스럽지만, 특히 다른 사람들이 읽을 때는 더욱 힘들죠. 프로그래밍의 가장 어려운 부분은 작동하는 코드를 작성하는 것이 아니라 이해하기 쉽고 의미가 있는 코드를 작성하는 것입니다.

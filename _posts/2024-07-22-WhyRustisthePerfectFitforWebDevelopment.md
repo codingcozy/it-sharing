@@ -1,5 +1,5 @@
 ---
-title: "웹 개발에 Rust가 완벽한 이유 5가지"
+title: "프론트엔드 개발에 Rust를 사용해야하는 이유 5가지"
 description: ""
 coverImage: "/assets/img/2024-07-22-WhyRustisthePerfectFitforWebDevelopment_0.png"
 date: 2024-07-22 11:37
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Why Rust is the Perfect Fit for Web Development"
 link: "https://medium.com/@patrickkoss/why-rust-is-the-perfect-fit-for-web-development-60f33d2012a4"
+isUpdated: true
+updatedAt: 1723812758127
 ---
+
 
 
 ![이미지](/assets/img/2024-07-22-WhyRustisthePerfectFitforWebDevelopment_0.png)

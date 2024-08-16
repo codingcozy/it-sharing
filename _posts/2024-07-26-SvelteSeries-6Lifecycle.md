@@ -1,5 +1,5 @@
 ---
-title: "Svelte Series-6 생명주기 관리 방법"
+title: "Svelte에서 라이프사이클 관리 방법"
 description: ""
 coverImage: "/assets/img/2024-07-26-SvelteSeries-6Lifecycle_0.png"
 date: 2024-07-26 11:55
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Svelte Series-6 Lifecycle"
 link: "https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-6-lifecycle-mgp"
+isUpdated: true
+updatedAt: 1723813362990
 ---
+
 
 
 각 구성 요소는 생성부터 파괴까지의 라이프 사이클을 가지고 있어요. 서로 다른 라이프 사이클 단계에서 구성 요소는 외부 세계에 메소드를 제공하면서, 구성 요소를 호출하는 개발자가 각 라이프 사이클 단계에서 구성 요소를 보다 유연하게 제어할 수 있도록 도와줘요. 이러한 메소드를 라이프 후크 함수라고 해요.

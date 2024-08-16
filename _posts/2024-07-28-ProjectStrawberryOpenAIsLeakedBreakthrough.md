@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Project Strawberry, OpenAIs Leaked Breakthrough"
 link: "https://medium.com/@ignacio.de.gregorio.noblejas/project-strawberry-openais-leaked-breakthrough-e9b3551138f9"
+isUpdated: true
+updatedAt: 1723816979053
 ---
+
 
 
 세계 단독 보도에 따르면, Reuters가 OpenAI의 최신 업적을 유출했습니다: '딸기'라는 코드명을 가진 새로운 모델은 AI의 진정한 요새인 추론에 열쇠를 제공할 수 있을지도 모르는 중요성을 지닐지도 모릅니다.

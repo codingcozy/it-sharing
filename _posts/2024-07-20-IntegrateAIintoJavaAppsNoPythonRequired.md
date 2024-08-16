@@ -1,5 +1,5 @@
 ---
-title: "Python 없이 자바 앱에 AI 통합하기  쉬운 방법"
+title: "Python 없이 자바 앱에 AI 개발하는 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-07-20-IntegrateAIintoJavaAppsNoPythonRequired_0.png"
 date: 2024-07-20 11:35
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Integrate AI into Java Apps  No Python Required"
 link: "https://medium.com/donvitocodes/integrate-ai-into-java-apps-no-python-required-3e1d996a2d92"
+isUpdated: true
+updatedAt: 1723812483725
 ---
+
 
 
 ![image](/assets/img/2024-07-20-IntegrateAIintoJavaAppsNoPythonRequired_0.png)

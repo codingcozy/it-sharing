@@ -1,5 +1,5 @@
 ---
-title: "수천만 레코드의 MySQL 쿼리 시간을 190초에서 1초로 단축하는 방법"
+title: "수천만 레코드의 MySQL 쿼리 시간을 190초에서 1초로 단축시킨 방법"
 description: ""
 coverImage: "/assets/img/2024-07-26-OptimizingMySQLQueriesfrom190Secondsto1SecondforTensofMillionsofRecords_0.png"
 date: 2024-07-26 12:03
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Optimizing MySQL Queries from 190 Seconds to 1 Second for Tens of Millions of Records"
 link: "https://medium.com/stackademic/optimizing-mysql-queries-from-190-seconds-to-1-second-for-tens-of-millions-of-records-c9d61b7e75b9"
+isUpdated: true
+updatedAt: 1723813341780
 ---
+
 
 
 <img src="/assets/img/2024-07-26-OptimizingMySQLQueriesfrom190Secondsto1SecondforTensofMillionsofRecords_0.png" />

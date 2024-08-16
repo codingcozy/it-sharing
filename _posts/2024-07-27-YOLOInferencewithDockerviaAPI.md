@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "YOLO Inference with Docker via API"
 link: "https://medium.com/towards-data-science/yolo-inference-with-docker-via-api-cd6757ba614b"
+isUpdated: true
+updatedAt: 1723816395817
 ---
+
 
 
 <img src="/assets/img/2024-07-27-YOLOInferencewithDockerviaAPI_0.png" />

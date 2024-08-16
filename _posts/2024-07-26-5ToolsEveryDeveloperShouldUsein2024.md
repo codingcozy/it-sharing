@@ -1,5 +1,5 @@
 ---
-title: "2024년 모든 개발자가 사용해야 할 필수 도구 5가지"
+title: "2024년 모든 개발자가 사용해야 할 필수 도구 5가지 정리"
 description: ""
 coverImage: "/assets/img/2024-07-26-5ToolsEveryDeveloperShouldUsein2024_0.png"
 date: 2024-07-26 11:56
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "5 Tools Every Developer Should Use in 2024"
 link: "https://dev.to/arindam_1729/5-tools-every-developer-must-use-in-2024-438"
+isUpdated: true
+updatedAt: 1723813300132
 ---
+
 
 
 개발자로서 배울 것이 많고, 실제로 중요한 것에 집중하는 것이 매우 중요합니다! 많은 개발자들이 모든 것을 처음부터 만들기를 선호하지만, 때로는 업무량이 많아서 이러한 도구를 사용하면 일이 더 쉬워질 수 있습니다.

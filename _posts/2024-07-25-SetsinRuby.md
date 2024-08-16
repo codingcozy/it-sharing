@@ -1,5 +1,5 @@
 ---
-title: "Ruby에서 Set 사용법"
+title: "Ruby에서 Set 사용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-25-SetsinRuby_0.png"
 date: 2024-07-25 12:04
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Sets in Ruby"
 link: "https://medium.com/@patrickkarsh/sets-in-ruby-9d1426d2e46c"
+isUpdated: true
+updatedAt: 1723813293000
 ---
+
 
 
 루비는 동적이고 오픈 소스인 프로그래밍 언어로, 간결함과 생산성에 중점을 둡니다. 이 언어는 다양한 데이터 구조를 제공하여 개발자들의 업무를 보다 쉽게 만들어 줍니다. 루비의 한 부분인 Set은 이러한 중요성이 좀 더 인정받아야할 부분 중 하나입니다. 배열과는 달리, 세트는 순서가 없고 고유한 요소들의 컬렉션이며, 요소들의 고유성이 중요한 데이터를 처리하는 데 효율적인 방법을 제공합니다. 이 글은 루비에서 세트를 사용하는 방법에 대해 기본부터 고급 응용까지 탐구하여, 세트를 루비 프로그래밍 도구상에 통합하는 이유와 방법에 대해 알아보겠습니다.

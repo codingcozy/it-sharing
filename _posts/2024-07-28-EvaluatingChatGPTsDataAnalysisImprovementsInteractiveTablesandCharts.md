@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT의 데이터 분석 개선 평가 인터렉티브 테이블 및 차트 활용 방법"
+title: "ChatGPT로 인터렉티브 테이블 및 차트 활용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-28-EvaluatingChatGPTsDataAnalysisImprovementsInteractiveTablesandCharts_0.png"
 date: 2024-07-28 13:58
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Evaluating ChatGPTs Data Analysis Improvements Interactive Tables and Charts"
 link: "https://medium.com/towards-data-science/evaluating-chatgpts-data-analysis-improvements-interactive-tables-and-charts-622d3e5a3816"
+isUpdated: true
+updatedAt: 1723816922321
 ---
+
 
 
 2024년 5월, GPT-4o의 흥미로운 출시와 함께 OpenAI가 ChatGPT의 데이터 분석 개선 사항을 발표했습니다. 이번 업데이트에는 대화 형 테이블과 차트, 그리고 Google 드라이브 및 Microsoft OneDrive와의 통합이 포함되어 있습니다.

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Day 29 of 100 Days of Code"
 link: "https://dev.to/jacobsternx/day-29-of-100-days-of-code-3jj2"
+isUpdated: true
+updatedAt: 1723816463876
 ---
+
 
 
 2024년 7월 29일

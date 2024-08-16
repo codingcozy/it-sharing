@@ -1,5 +1,5 @@
 ---
-title: "Nextjs로 비공개 링크 공유 앱 만드는 방법"
+title: "Nextjs로 비공개 링크 공유 앱 만드는 방법(코드 있음)"
 description: ""
 coverImage: "/assets/img/2024-07-25-HowtobuildaPrivateLinkSharingAppUsingNextjs_0.png"
 date: 2024-07-25 11:59
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to build a Private Link Sharing App Using Nextjs"
 link: "https://dev.to/priyankarpal/how-to-build-a-private-link-sharing-app-using-nextjs-nap"
+isUpdated: true
+updatedAt: 1723813241966
 ---
+
 
 
 ## 소개

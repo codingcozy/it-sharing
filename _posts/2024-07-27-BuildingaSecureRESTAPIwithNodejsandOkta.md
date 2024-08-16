@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Building a Secure REST API with Nodejs and Okta"
 link: "https://medium.com/@seremwen/building-a-secure-rest-api-with-node-js-and-okta-50acd6477918"
+isUpdated: true
+updatedAt: 1723816871810
 ---
+
 
 
 오늘날의 디지턀 환경에서 API를 보호하는 것은 애플리케이션 개발의 중요한 측면입니다. 인증 및 권한 부여에 대한 인기있는 방법 중 하나는 OAuth 2.0 및 OpenID Connect를 사용하는 것입니다. 클라우드 기반 ID 관리 서비스인 Okta는 이 프로세스를 간소화합니다. 이 기사에서는 Node.js로 안전한 REST API를 구축하고 인증 및 권한을 위해 Okta를 통합하는 방법에 대해 살펴보겠습니다.

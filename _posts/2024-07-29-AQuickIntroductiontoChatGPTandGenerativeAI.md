@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT와 생성형 AI 빠른 소개"
+title: "ChatGPT와 생성형 AI 소개"
 description: ""
 coverImage: "/assets/img/2024-07-29-AQuickIntroductiontoChatGPTandGenerativeAI_0.png"
 date: 2024-07-29 13:59
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "A Quick Introduction to ChatGPT and Generative AI"
 link: "https://medium.com/@ThatShelbs/a-quick-introduction-to-chatgpt-and-generative-ai-c5e6a61e6fd5"
+isUpdated: true
+updatedAt: 1723816989503
 ---
+
 
 
 ChatGPT, 생성적 AI 및 기타 관련 개념에 대한 해석을 제공하겠어요.

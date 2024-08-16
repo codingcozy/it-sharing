@@ -1,5 +1,5 @@
 ---
-title: "초보자를 위한 시스템 설계 입문 가이드"
+title: "시스템 설계를 잘하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-20 11:33
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Beginners guide to System Design"
 link: "https://medium.com/@pavanapriya.u/beginners-guide-to-system-design-5540d6115e39"
+isUpdated: true
+updatedAt: 1723812816601
 ---
+
 
 
 # 기초

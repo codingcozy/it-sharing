@@ -1,5 +1,5 @@
 ---
-title: "우리만의 프레임워크를 만드는 방법"
+title: "나만의 프레임워크를 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-26-HowtoBuildOurOwnFramework_0.png"
 date: 2024-07-26 11:59
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to Build Our Own Framework"
 link: "https://dev.to/slydragonn/how-to-build-our-own-framework-2eoo"
+isUpdated: true
+updatedAt: 1723813327171
 ---
+
 
 
 안녕하세요 여러분!

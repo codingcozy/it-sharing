@@ -1,5 +1,5 @@
 ---
-title: "모든 개발자를 위한 최고의 20가지 자바스크립트 트릭과 팁 "
+title: "개발자를 위한 최고의 20가지 자바스크립트 팁"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-29 13:52
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Top 20 JavaScript Tricks and Tips for Every Developer "
 link: "https://dev.to/dipakahirav/top-20-javascript-tricks-and-tips-for-every-developer-3apb"
+isUpdated: true
+updatedAt: 1723816432272
 ---
+
 
 
 자바스크립트는 다재다능하고 강력한 언어이지만, 습득하기 어려울 수도 있습니다. 여기 개발자가 꼭 알아야 할 20가지 자바스크립트 트릭과 팁이 있어요. 이를 통해 더 깔끔하고 효율적인 코드를 작성하고 개발 워크플로우를 개선할 수 있답니다. 🌟

@@ -1,5 +1,5 @@
 ---
-title: "깔끔한 코드를 작성하는 방법 주요 원칙과 실천법"
+title: "프로젝트에서 깔끔한 코드를 작성하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-25-WritingCleanCode_0.png"
 date: 2024-07-25 12:15
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Writing Clean Code"
 link: "https://medium.com/@kenslearningcurve/writing-clean-code-775c2dff07bd"
+isUpdated: true
+updatedAt: 1723816374410
 ---
+
 
 
 <img src="/assets/img/2024-07-25-WritingCleanCode_0.png" />

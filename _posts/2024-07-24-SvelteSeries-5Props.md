@@ -1,5 +1,5 @@
 ---
-title: "Svelte 시리즈-5 Props 사용 방법 자세히 알아보기"
+title: "Svelte에서 Props를 사용 하는 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-07-24-SvelteSeries-5Props_0.png"
 date: 2024-07-24 12:01
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Svelte Series-5 Props"
 link: "https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-5-props-d22"
+isUpdated: true
+updatedAt: 1723812940408
 ---
+
 
 
 ## 구성 요소 기반 개발

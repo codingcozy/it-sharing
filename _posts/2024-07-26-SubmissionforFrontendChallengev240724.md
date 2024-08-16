@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Submission for Frontend Challenge v240724"
 link: "https://dev.to/ravixalgorithm/submission-for-frontend-challenge-v240724-2ej1"
+isUpdated: true
+updatedAt: 1723816832599
 ---
+
 
 
 이것은 Frontend Challenge v24.07.24, Glam Up My Markup: Recreation을 위한 제출입니다.

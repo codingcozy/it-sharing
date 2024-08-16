@@ -1,5 +1,5 @@
 ---
-title: "5분 안에 배워보는 React"
+title: "5분 안에 배워보는 React 팁"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 20:46
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "React in 5 Minutes"
 link: "https://dev.to/lokesh_singh/react-in-5-minutes-2bk"
+isUpdated: true
+updatedAt: 1723816545985
 ---
+
 
 
 리액트는 사용자 인터페이스를 구축하기 위한 강력한 JavaScript 라이브러리입니다. 프론트엔드 개발을 보다 빠르고 쉽게 만들기 위해 설계되었습니다. 함께 간단하고 친근하게 리액트의 컨셉을 알아보도록 하죠!

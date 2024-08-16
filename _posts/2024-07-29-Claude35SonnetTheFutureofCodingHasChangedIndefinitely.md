@@ -1,5 +1,5 @@
 ---
-title: "클로드 35 소네트 코딩의 미래가 무기한으로 바뀐 이유"
+title: "클로드 35 소네트 내용 정리"
 description: ""
 coverImage: "/assets/img/2024-07-29-Claude35SonnetTheFutureofCodingHasChangedIndefinitely_0.png"
 date: 2024-07-29 13:58
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Claude 35 Sonnet The Future of Coding Has Changed Indefinitely"
 link: "https://medium.com/gitconnected/claude-3-5-sonnet-the-future-of-coding-has-changed-indefinitely-2c7d002d2ae2"
+isUpdated: true
+updatedAt: 1723816999692
 ---
+
 
 
 

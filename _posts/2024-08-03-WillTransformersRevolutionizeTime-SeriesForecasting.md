@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Will Transformers Revolutionize Time-Series Forecasting"
 link: "https://medium.com/towards-data-science/will-transformers-revolutionize-time-series-forecasting-1ac0eb61ecf3"
+isUpdated: true
+updatedAt: 1723816600529
 ---
+
 
 
 

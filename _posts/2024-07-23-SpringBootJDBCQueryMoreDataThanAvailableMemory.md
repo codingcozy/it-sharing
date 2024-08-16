@@ -1,5 +1,5 @@
 ---
-title: "메모리 초과 데이터를 조회하는 방법 2024년 Spring Boot JDBC 활용법"
+title: "Spring Boot JDBC를 활용해 메모리 초과 데이터를 조회하는 방법  "
 description: ""
 coverImage: "/assets/img/2024-07-23-SpringBootJDBCQueryMoreDataThanAvailableMemory_0.png"
 date: 2024-07-23 11:30
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Spring Boot JDBC Query More Data Than Available Memory"
 link: "https://medium.com/javajams/spring-boot-jdbc-query-more-data-than-available-memory-ba87028894ba"
+isUpdated: true
+updatedAt: 1723816771806
 ---
+
 
 
 ![Spring Boot: Handling a REST Endpoint That Queries More Data Than Available Memory](/assets/img/2024-07-23-SpringBootJDBCQueryMoreDataThanAvailableMemory_0.png)

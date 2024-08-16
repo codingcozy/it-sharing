@@ -1,5 +1,5 @@
 ---
-title: "면접 질문 고유한 문자로 이루어진 가장 긴 부분 문자열 찾기 방법"
+title: "단골 면접 질문 - 고유한 문자로 이루어진 가장 긴 부분 문자열 찾기 방법"
 description: ""
 coverImage: "/assets/img/2024-07-23-InterviewQnLongestLengthOfSubstringWithUniqueLetters_0.png"
 date: 2024-07-23 21:59
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Interview Qn Longest Length Of Substring With Unique Letters"
 link: "https://medium.com/gitconnected/interview-qn-longest-length-of-substring-with-unique-letters-434afd67dea4"
+isUpdated: true
+updatedAt: 1723812718271
 ---
+
 
 
 <img src="/assets/img/2024-07-23-InterviewQnLongestLengthOfSubstringWithUniqueLetters_0.png" />

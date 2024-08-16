@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Implementing a Mass Email Sending System with Angular, NET Core, Azure, SendGrid, and SignalR"
 link: "https://medium.com/@balramchavan/implementing-a-mass-email-sending-system-with-angular-net-core-azure-sendgrid-and-signalr-c4fe96877aa4"
+isUpdated: true
+updatedAt: 1723816932350
 ---
+
 
 
 저희 이전 블로그에서는 대량 이메일 발송 시스템의 디자인 고려 사항 및 작업 흐름에 대해 논의했습니다. 이제 전체 프론트엔드에 Angular를 사용하여 실제 구현에 대해 살펴보겠습니다. 백엔드 API에는 .NET Core를 사용하고, 대기 및 처리에는 Azure 클라우드 서비스를 사용하며, 이메일 발송에는 SendGrid를 사용하고 실시간 푸시 알림에는 SignalR을 사용합니다. 또한 이메일 발송 전 임의의 지연 추가, 실패한 이메일을 위한 재시도 논리, 데이터베이스 상태 업데이트와 같은 모범 사례도 다룰 것입니다.

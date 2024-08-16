@@ -1,5 +1,5 @@
 ---
-title: "Nodejs V8 엔진의 세부사항"
+title: "Nodejs V8 엔진에서 알아둬야할 기능 정리"
 description: ""
 coverImage: "/assets/img/2024-07-30-NodejsDetailsofV8Engine_0.png"
 date: 2024-07-30 17:05
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Nodejs Details of V8 Engine"
 link: "https://medium.com/@profoliohub/node-js-details-of-v8-engine-6f86d475be5d"
+isUpdated: true
+updatedAt: 1723816488165
 ---
+
 
 
 Node.js 내부에 대한 심층 탐구를 계속할 것을 환영합니다! 이 게시물에서는 Node.js 뒤의 강력한 엔진인 V8 엔진을 살펴보겠습니다. 이 엔진은 놀라운 속도와 효율성으로 JavaScript 코드를 실행합니다. V8의 아키텍처를 이해하고 JavaScript 실행을 최적화하는 방법은 보다 효율적인 Node.js 애플리케이션을 작성하는 데 도움이 될 수 있습니다.

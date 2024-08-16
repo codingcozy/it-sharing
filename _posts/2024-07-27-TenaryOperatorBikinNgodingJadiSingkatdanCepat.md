@@ -1,5 +1,5 @@
 ---
-title: "삼항 연산자가 코딩을 간단하고 빠르게 만드는 방법"
+title: "자바스크립트에서 삼항 연산자를 효율적으로 사용하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-27 13:52
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Tenary Operator Bikin Ngoding Jadi Singkat dan Cepat"
 link: "https://dev.to/fikriqx/tenary-operator-bikin-ngoding-jadi-singkat-dan-cepat-48gp"
+isUpdated: true
+updatedAt: 1723813407609
 ---
+
 
 
 테너리 연산자는 자바스크립트에서 if-else 문을 간단히 작성하는 방법이에요. 조건을 물음표 ?와 콜론 :을 사용해서 표현할 수 있어요.

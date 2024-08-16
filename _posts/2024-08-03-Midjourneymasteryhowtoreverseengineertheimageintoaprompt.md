@@ -1,5 +1,5 @@
 ---
-title: "Midjourney 마스터하기 이미지를 프롬프트로 역설계하는 방법"
+title: "Midjourney에서 이미지를 프롬프트로 역설계하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-03-Midjourneymasteryhowtoreverseengineertheimageintoaprompt_0.png"
 date: 2024-08-03 21:30
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Midjourney mastery how to reverse engineer the image into a prompt"
 link: "https://medium.com/@aivaras.a.grauzinis/midjourney-mastery-how-to-reverse-engineer-the-image-into-a-prompt-7f9a06730fb6"
+isUpdated: true
+updatedAt: 1723816533012
 ---
+
 
 
 이 기사는 제 독자 중 한 분인 Gras Lux에 의해 영감을 받아 작성되었으므로 그분과 그와 같은 독자들에게 바칩니다. 독서, 댓글 남기기, 그리고 질문하는 것을 절대 그만두지 마세요; 이 모든 것이 흥미로워요.

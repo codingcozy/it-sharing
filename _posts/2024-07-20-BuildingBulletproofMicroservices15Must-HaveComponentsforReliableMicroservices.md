@@ -1,5 +1,5 @@
 ---
-title: "믿을 수 있는 마이크로서비스 구축 필수 15가지 구성 요소"
+title: "프론트엔드 마이크로서비스 구축에 필요한 15가지 구성 요소"
 description: ""
 coverImage: "/assets/img/2024-07-20-BuildingBulletproofMicroservices15Must-HaveComponentsforReliableMicroservices_0.png"
 date: 2024-07-20 11:28
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Building Bulletproof Microservices 15 Must-Have Components for Reliable Microservices"
 link: "https://medium.com/bb-tutorials-and-thoughts/building-bulletproof-microservices-15-must-have-components-for-reliable-microservices-4afc87ae3250"
+isUpdated: true
+updatedAt: 1723812469425
 ---
+
 
 
 <img src="/assets/img/2024-07-20-BuildingBulletproofMicroservices15Must-HaveComponentsforReliableMicroservices_0.png" />

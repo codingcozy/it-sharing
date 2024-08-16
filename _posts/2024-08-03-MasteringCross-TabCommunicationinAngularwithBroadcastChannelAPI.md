@@ -1,5 +1,5 @@
 ---
-title: "BroadcastChannel API를 사용하여 Angular에서 크로스-탭 통신 마스터하는 방법"
+title: "BroadcastChannel API를 사용하여 Angular에서 크로스-탭 통신하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-03-MasteringCross-TabCommunicationinAngularwithBroadcastChannelAPI_0.png"
 date: 2024-08-03 20:49
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Cross-Tab Communication in Angular with BroadcastChannel API"
 link: "https://medium.com/@md.mollaie/mastering-cross-tab-communication-in-angular-with-broadcastchannel-api-0e15ccef75bf"
+isUpdated: true
+updatedAt: 1723816506769
 ---
+
 
 
 <img src="/assets/img/2024-08-03-MasteringCross-TabCommunicationinAngularwithBroadcastChannelAPI_0.png" />

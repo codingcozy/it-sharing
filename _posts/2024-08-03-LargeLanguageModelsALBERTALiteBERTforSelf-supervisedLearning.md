@@ -1,5 +1,5 @@
 ---
-title: "대형 언어 모델, ALBERT  자가 지도 학습을 위한 경량화된 BERT"
+title: "대형 언어 모델, ALBERT 자가 지도 학습을 위한 경량화된 BERT"
 description: ""
 coverImage: "/assets/img/2024-08-03-LargeLanguageModelsALBERTALiteBERTforSelf-supervisedLearning_0.png"
 date: 2024-08-03 21:21
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Large Language Models, ALBERT  A Lite BERT for Self-supervised Learning"
 link: "https://medium.com/towards-data-science/albert-22983090d062"
+isUpdated: true
+updatedAt: 1723816898192
 ---
+
 
 
 ## BERT 아키텍처 선택의 주요 기법을 이해하여 간결하고 효율적인 모델을 생성하는 방법

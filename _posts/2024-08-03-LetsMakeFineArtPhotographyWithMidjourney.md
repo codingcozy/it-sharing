@@ -1,5 +1,5 @@
 ---
-title: "Midjourney로 멋진 예술 사진 만드는 방법"
+title: "Midjourney로 멋진 예술 사진 만드는 프롬프트"
 description: ""
 coverImage: "/assets/img/2024-08-03-LetsMakeFineArtPhotographyWithMidjourney_0.png"
 date: 2024-08-03 21:33
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Lets Make Fine Art Photography With Midjourney"
 link: "https://medium.com/let-there-be-prompt/lets-make-fine-art-photography-with-midjourney-6579a3e1d0aa"
+isUpdated: true
+updatedAt: 1723816496159
 ---
+
 
 
 나의 25년간의 사진 작가 경력 동안 수십만 장의 사진을 찍었습니다. 그 중 몇 천 장 정도가 미술 사진으로 업그레이드된 것도 있죠.

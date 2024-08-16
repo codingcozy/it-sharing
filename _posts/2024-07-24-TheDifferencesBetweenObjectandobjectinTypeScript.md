@@ -1,5 +1,5 @@
 ---
-title: "TypeScript에서 Object, , object의 차이점 이해하기"
+title: "TypeScript에서 Object 와 object의 차이점 이해하기"
 description: ""
 coverImage: "/assets/img/2024-07-24-TheDifferencesBetweenObjectandobjectinTypeScript_0.png"
 date: 2024-07-24 11:59
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Differences Between Object, , and object in TypeScript"
 link: "https://dev.to/zacharylee/the-differences-between-object-and-object-in-typescript-f6f"
+isUpdated: true
+updatedAt: 1723812950443
 ---
+
 
 
 TypeScript에서 객체 유형을 정의하려면 `Object`, `''`, `object`과 같이 간결한 옵션이 여러 가지 있습니다. 이들 간의 차이는 무엇인가요?

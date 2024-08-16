@@ -1,5 +1,5 @@
 ---
-title: "파이썬으로 나만의 나비에-스토크스 유체 시뮬레이션 스펙트럴 방법 만들기"
+title: "파이썬으로 유체 시뮬레이션 만들기 정리"
 description: ""
 coverImage: "/assets/img/2024-07-23-CreateYourOwnNavier-StokesSpectralMethodFluidSimulationWithPython_0.png"
 date: 2024-07-23 22:01
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Create Your Own Navier-Stokes Spectral Method Fluid Simulation With Python"
 link: "https://medium.com/gitconnected/create-your-own-navier-stokes-spectral-method-fluid-simulation-with-python-3f37405524f4"
+isUpdated: true
+updatedAt: 1723812690468
 ---
+
 
 
 오늘의 취미 코딩 연습에서 우리는 압축되지 않은 점성 유체에 대한 네비에-스톡스 방정식을 해결합니다. 이를 위해 스펙트럼 방법을 구현할 것입니다. 네비에-스톡스 방정식은 물과 같은 유체의 움직임을 대략적으로 설명합니다. 이 방정식은 난류 현상을 포착할 수 있습니다. 이 시스템은 수학에서 3D 해의 존재와 부드러움을 일반적으로 증명하는 것이 밀레니엄 상 문제 중 하나입니다.

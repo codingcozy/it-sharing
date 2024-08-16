@@ -1,5 +1,5 @@
 ---
-title: "Angular에서 ng-content 마스터하기 컴포넌트 재사용성과 동적 레이아웃 구현하는 방법"
+title: "Angular에서 ng-content 동적 레이아웃 구현하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-27-Masteringng-contentinAngularAchieveComponentReusabilityandDynamicLayouts_0.png"
 date: 2024-07-27 13:54
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering ng-content in Angular Achieve Component Reusability and Dynamic Layouts"
 link: "https://medium.com/technology-hits/mastering-ng-content-in-angular-achieve-component-reusability-and-dynamic-layouts-8a007a8a0875"
+isUpdated: true
+updatedAt: 1723816891666
 ---
+
 
 
 <img src="/assets/img/2024-07-27-Masteringng-contentinAngularAchieveComponentReusabilityandDynamicLayouts_0.png" />

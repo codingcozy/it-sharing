@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Implementing a Linked List in Rust"
 link: "https://medium.com/gitconnected/implementing-a-linked-list-in-rust-70626c8c95d4"
+isUpdated: true
+updatedAt: 1723816806594
 ---
+
 
 
 

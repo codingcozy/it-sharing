@@ -1,5 +1,5 @@
 ---
-title: "2024년 8월 2일 Remix 주간 뉴스레터"
+title: "새롭게 떠오르고 있는 Remix 정리"
 description: ""
 coverImage: "/assets/img/2024-08-03-RemixWeeklyNewsletterAugust2nd2024_0.png"
 date: 2024-08-03 21:36
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Remix Weekly Newsletter  August 2nd, 2024"
 link: "https://medium.com/remix/remix-weekly-newsletter-august-2nd-2024-bd450bc128af"
+isUpdated: true
+updatedAt: 1723816561890
 ---
+
 
 
 ![Remix Weekly Newsletter](/assets/img/2024-08-03-RemixWeeklyNewsletterAugust2nd2024_0.png)

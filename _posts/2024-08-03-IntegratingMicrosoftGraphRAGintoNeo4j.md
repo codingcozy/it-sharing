@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Integrating Microsoft GraphRAG into Neo4j"
 link: "https://medium.com/towards-data-science/integrating-microsoft-graphrag-into-neo4j-e0d4fa00714c"
+isUpdated: true
+updatedAt: 1723816900350
 ---
+
 
 
 ## Microsoft GraphRAG 결과를 Neo4j에 저장하고 LangChain 또는 LlamaIndex로 로컬 및 글로벌 retrievers를 구현하세요!

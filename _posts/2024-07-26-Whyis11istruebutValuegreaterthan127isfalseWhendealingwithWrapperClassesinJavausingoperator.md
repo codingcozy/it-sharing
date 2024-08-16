@@ -1,5 +1,5 @@
 ---
-title: "자바 Wrapper 클래스에서 1  1은 참이지만 값이 127을 초과하면  연산자가 거짓이 되는 이유는자바에서 Wrapper 클래스예 Integer, Long는 기본 타입을 객체로 감싸주는 역할을 합니다 이 클래스들은 참조 타입이므로,  연산자를 사용할 때 값이 아닌 참조를 비교하게 됩니다 그러나 Integer 클래스의 경우, -128에서 127 사이의 값은 자주 사용되므로 캐싱됩니다 이 때문에 같은 값의 참조가 동일해  비교가 참이지만, 이 범위를 벗어나는 값은 새로운 객체로 생성되어 참조가 달라져  비교가 거짓이 됩니다"
+title: "자바 공부 내용 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-26 12:00
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Why is 1  1 is true but Value greater than 127 is false When dealing with Wrapper Classes in Java using  operator"
 link: "https://medium.com/@gainjavaknowledge/why-is-1-1-is-true-but-value-greater-than-127-is-false-when-dealing-with-wrapper-classes-in-java-46c872fff802"
+isUpdated: true
+updatedAt: 1723816847375
 ---
+
 
 
 이번 튜토리얼에서는 Wrapper 클래스를 비교할 때 '==' 연산자를 사용한 경우 발생하는 동작에 대해 설명하겠습니다.

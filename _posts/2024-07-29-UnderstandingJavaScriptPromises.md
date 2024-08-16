@@ -1,5 +1,5 @@
 ---
-title: "자바스크립트 프로미스 이해하기 쉽게 설명하는 방법"
+title: "자바스크립트 프로미스 이해하기"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-29 13:50
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding JavaScript Promises"
 link: "https://dev.to/rahulvijayvergiya/understanding-javascript-promises-29j4"
+isUpdated: true
+updatedAt: 1723816435881
 ---
+
 
 
 자바스크립트 프로미스는 비동기 작업을 처리하는 강력한 방법입니다. 프로미스가 도입되기 전에는 콜백이 비동기 작업을 처리하는 주요 방법이었습니다. 그러나 콜백은 중첩된 콜백으로 인해 관리하고 읽기 어려운 "콜백 지옥"으로 이어질 수 있습니다. 프로미스는 비동기 작업을 더 깔끔하고 읽기 쉽게 처리하는 방법을 제공합니다.

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Design Patterns  Builder in Angular"
 link: "https://medium.com/design-patterns-builder-in-angular/design-patterns-builder-in-angular-c9a05b91385f"
+isUpdated: true
+updatedAt: 1723816468153
 ---
+
 
 
 

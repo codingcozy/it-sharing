@@ -1,5 +1,5 @@
 ---
-title: "재미있게 배우는 자바스크립트 프로그래밍 실습 모음집"
+title: "초보 개발자라면 알아둬야할 자바스크립트 프로그래밍 실습 프로젝트"
 description: ""
 coverImage: "/assets/img/2024-07-23-MasteringJavaScriptACollectionofEngagingProgrammingLabs_0.png"
 date: 2024-07-23 21:49
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering JavaScript A Collection of Engaging Programming Labs"
 link: "https://dev.to/labex/mastering-javascript-a-collection-of-engaging-programming-labs-379j"
+isUpdated: true
+updatedAt: 1723812778266
 ---
+
 
 
 자바스크립트의 세계로 뛰어들어보세요! LabEx에서 선별한 프로그래밍 랩 컬렉션으로 여러분의 기술을 갈고 닦으려는 초보자든, 새로운 도전을 찾는 숙련된 개발자든 상관없이 다양한 주제를 탐험하고 정복할 수 있습니다. 🚀

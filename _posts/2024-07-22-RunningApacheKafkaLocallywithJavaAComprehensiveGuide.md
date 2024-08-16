@@ -1,5 +1,5 @@
 ---
-title: "Java와 로컬에서 Apache Kafka 실행하기 종합 가이드"
+title: "Java와 로컬에서 Apache Kafka 실행하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-22-RunningApacheKafkaLocallywithJavaAComprehensiveGuide_0.png"
 date: 2024-07-22 11:30
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Running Apache Kafka Locally with Java A Comprehensive Guide"
 link: "https://medium.com/bb-tutorials-and-thoughts/running-apache-kafka-locally-with-java-a-comprehensive-guide-cfd277094ea1"
+isUpdated: true
+updatedAt: 1723816754485
 ---
+
 
 
 <img src="/assets/img/2024-07-22-RunningApacheKafkaLocallywithJavaAComprehensiveGuide_0.png" />

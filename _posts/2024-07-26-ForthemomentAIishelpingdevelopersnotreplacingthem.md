@@ -1,5 +1,5 @@
 ---
-title: "현재 AI는 개발자를 돕고 있을 뿐, 대체하지 않는다"
+title: "AI가 개발자의 자리를 뺏지 못하는 이유"
 description: ""
 coverImage: "/assets/img/2024-07-26-ForthemomentAIishelpingdevelopersnotreplacingthem_0.png"
 date: 2024-07-26 12:03
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "For the moment, AI is helping developers, not replacing them"
 link: "https://medium.com/enrique-dans/for-the-moment-ai-is-helping-developers-not-replacing-them-c5c41ec2d1f3"
+isUpdated: true
+updatedAt: 1723813317651
 ---
+
 
 
 ![Image](/assets/img/2024-07-26-ForthemomentAIishelpingdevelopersnotreplacingthem_0.png)

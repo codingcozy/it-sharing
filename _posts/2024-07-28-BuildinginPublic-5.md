@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Building in Public - 5"
 link: "https://dev.to/liaob/building-in-public-5-2i3j"
+isUpdated: true
+updatedAt: 1723816976492
 ---
+
 
 
 내 React 프로젝트에 localStorage 사용을 추가했어요. 앱이 클라이언트 전용이라 데이터를 지속적으로 유지할 수 있게 했더라고 좋겣어요.

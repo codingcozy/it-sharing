@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "What I Learned From Creating an AI of Myself"
 link: "https://medium.com/towards-artificial-intelligence/what-i-learned-from-creating-an-ai-of-myself-ff8f994fa485"
+isUpdated: true
+updatedAt: 1723817014025
 ---
+
 
 
 비-중간 회원들은 이 친구 링크를 통해 무료로 이 이야기를 읽을 수 있어요.

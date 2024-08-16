@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Stop Thinking About What Other People Say"
 link: "https://medium.com/write-a-catalyst/stop-thinking-about-what-other-people-say-44caf0711b90"
+isUpdated: true
+updatedAt: 1723816945057
 ---
+
 
 
 남들이 무엇을 생각하든지 피로해 하셨나요? 주변 사람들로부터 승인을 받는 것을 그만하고 자신에게 행복을 주는 삶을 사세요.

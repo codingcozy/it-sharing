@@ -1,5 +1,5 @@
 ---
-title: "Google 폼 자동화하는 방법"
+title: "Google 폼 자동화시키는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-27 13:53
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Automao para formulrios Google"
 link: "https://dev.to/mirangod/automacao-para-formularios-google-3jie"
+isUpdated: true
+updatedAt: 1723813392017
 ---
+
 
 
 요청하신 대로 특정 항목을 업데이트하는 스마트한 양식을 만들라는데요. 사용자가 입력하는 내용에 따라 특정 아이템을 업데이트하는 것이 목적입니다. 일종의 ID처럼 말이죠.

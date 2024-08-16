@@ -1,5 +1,5 @@
 ---
-title: "Python으로 이상 탐지를 마스터하는 방법"
+title: "Python으로 에러 처리하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-28-MasteringAnomalyDetectioninPython_0.png"
 date: 2024-07-28 13:57
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Anomaly Detection in Python"
 link: "https://medium.com/@kaabar-sofien/mastering-anomaly-detection-in-python-7072ffd750da"
+isUpdated: true
+updatedAt: 1723816942645
 ---
+
 
 
 ![Anomaly Detection](/assets/img/2024-07-28-MasteringAnomalyDetectioninPython_0.png)

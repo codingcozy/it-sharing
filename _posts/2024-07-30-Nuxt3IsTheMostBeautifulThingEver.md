@@ -1,5 +1,5 @@
 ---
-title: "Nuxt 3 가장 아름다운 프레임워크의 이유"
+title: "Nuxt 3 가 가장 인기 있는 프레임 워크인 이유"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-30 16:52
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Nuxt 3 Is The Most Beautiful Thing Ever"
 link: "https://dev.to/ogurinkaben/nuxt-3-is-the-most-beautiful-thing-ever-3doo"
+isUpdated: true
+updatedAt: 1723817052455
 ---
+
 
 
 ## 조금의 배경

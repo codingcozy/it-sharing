@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Power Pages how to disable ESC on modals"
 link: "https://dev.to/andrewelans/power-pages-how-to-disable-esc-on-modals-d4a"
+isUpdated: true
+updatedAt: 1723816615112
 ---
+
 
 
 Power Pages의 이전 버전은 Bootstrap 3을 사용하고, 최신 버전은 Bootstrap 5를 사용하며, 모두 jQuery를 사용합니다.

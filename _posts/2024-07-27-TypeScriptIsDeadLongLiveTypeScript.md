@@ -1,5 +1,5 @@
 ---
-title: "TypeScript는 죽었다, TypeScript 만세 2024년 최신 동향과 전망"
+title: "TypeScript 2024년 최신 동향과 앞으로의 전망"
 description: ""
 coverImage: "/assets/img/2024-07-27-TypeScriptIsDeadLongLiveTypeScript_0.png"
 date: 2024-07-27 13:56
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "TypeScript Is Dead, Long Live TypeScript"
 link: "https://medium.com/@impure/typescript-is-dead-long-live-typescript-4bd426dcabcb"
+isUpdated: true
+updatedAt: 1723813417347
 ---
+
 
 
 <img src="/assets/img/2024-07-27-TypeScriptIsDeadLongLiveTypeScript_0.png" />

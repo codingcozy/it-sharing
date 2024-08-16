@@ -1,5 +1,5 @@
 ---
-title: "Tomcat 커넥터 설계 방식 이해하기 핵심 개념과 원리"
+title: "Tomcat 커넥터 설계 방식 핵심 개념과 원리 완벽 정리"
 description: ""
 coverImage: "/assets/img/2024-07-19-HowIstheTomcatConnectorDesigned_0.png"
 date: 2024-07-19 13:32
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How Is the Tomcat Connector Designed"
 link: "https://medium.com/@cstoppgmr/how-is-the-tomcat-connector-designed-9589e2a58da6"
+isUpdated: true
+updatedAt: 1723812355907
 ---
+
+
 
 
 

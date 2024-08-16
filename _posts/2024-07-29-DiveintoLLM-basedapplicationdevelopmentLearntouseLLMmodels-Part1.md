@@ -1,5 +1,5 @@
 ---
-title: "LLM 기반 애플리케이션 개발 LLM 모델 사용하는 방법 - Part 1"
+title: "LLM 기반 애플리케이션 개발 LLM 모델 사용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-29-DiveintoLLM-basedapplicationdevelopmentLearntouseLLMmodels-Part1_0.png"
 date: 2024-07-29 13:56
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Dive into LLM-based application development Learn to use LLM models-Part 1"
 link: "https://medium.com/@rahulveettil/dive-into-llm-based-application-development-learn-to-use-llm-models-part-1-79152353f350"
+isUpdated: true
+updatedAt: 1723817003044
 ---
+
 
 
 Huggingface model, OpenAI model, Ollama model

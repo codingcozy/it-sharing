@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT를 넘어서 2024년 Claude가 만든 10개의 놀라운 대시보드"
+title: "Claude로 만든 10개의 어드민 대시보드"
 description: ""
 coverImage: "/assets/img/2024-07-28-BeyondChatGPT10InsaneInteractiveDashboardsCreatedbyClaude_0.png"
 date: 2024-07-28 14:00
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Beyond ChatGPT 10 Insane Interactive Dashboards Created by Claude"
 link: "https://medium.com/@yukitaylor00/10-insane-interactive-dashboards-created-by-claude-cd094168bb39"
+isUpdated: true
+updatedAt: 1723816413211
 ---
+
 
 
 ![이미지](/assets/img/2024-07-28-BeyondChatGPT10InsaneInteractiveDashboardsCreatedbyClaude_0.png)

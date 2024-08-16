@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Bindings and Templates Part 2 of the Peasy-UI series"
 link: "https://dev.to/jyoung4242/bindings-and-templates-part-2-of-the-peasy-ui-series-k44"
+isUpdated: true
+updatedAt: 1723817115372
 ---
+
 
 
 # 목차

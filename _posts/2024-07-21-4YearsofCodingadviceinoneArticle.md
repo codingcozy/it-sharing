@@ -1,5 +1,5 @@
 ---
-title: "이 글 하나로 끝내는 4년간의 코딩 조언"
+title: "4년차 개발자가 신입 프로그래머에게 해주는 조언"
 description: ""
 coverImage: "/assets/img/2024-07-21-4YearsofCodingadviceinoneArticle_0.png"
 date: 2024-07-21 11:34
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "4 Years of Coding advice in one Article"
 link: "https://medium.com/gitconnected/4-years-of-coding-advice-in-one-article-a9484470b6e6"
+isUpdated: true
+updatedAt: 1723812841283
 ---
+
 
 
 <img src="/assets/img/2024-07-21-4YearsofCodingadviceinoneArticle_0.png" />

@@ -1,5 +1,5 @@
 ---
-title: "좋은 웹 개발자가 되기 위한 로드맵 2024년 최신 가이드"
+title: "웹 개발자가 되기 위한 최적의 로드맵 2024년 최신 가이드"
 description: ""
 coverImage: "/assets/img/2024-07-24-RoadmaptobeingagoodWebDeveloper_0.png"
 date: 2024-07-24 12:02
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Roadmap to being a good Web Developer"
 link: "https://dev.to/paul_ameh_c6f95df8b725981/roadmap-to-being-a-good-web-developer-d60"
+isUpdated: true
+updatedAt: 1723812917964
 ---
+
 
 
 ![텍스트](/assets/img/2024-07-24-RoadmaptobeingagoodWebDeveloper_0.png)

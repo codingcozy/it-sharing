@@ -1,5 +1,5 @@
 ---
-title: "React 19 현대 웹 개발의 판도를 바꿀 최신 기능들"
+title: "React 19에 새롭게 추가된 기능들 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-27 13:51
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "React 19 A Game-Changer for Modern Web Development"
 link: "https://dev.to/vyan/react-19-a-game-changer-for-modern-web-development-1bih"
+isUpdated: true
+updatedAt: 1723816392281
 ---
+
 
 
 ## 소개

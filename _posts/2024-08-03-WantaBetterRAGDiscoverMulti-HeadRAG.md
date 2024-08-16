@@ -1,5 +1,5 @@
 ---
-title: "더 나은 RAG를 원하나요 Multi-Head RAG를 알아보세요"
+title: "Multi-Head RAG 정리"
 description: ""
 coverImage: "/assets/img/2024-08-03-WantaBetterRAGDiscoverMulti-HeadRAG_0.png"
 date: 2024-08-03 21:20
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Want a Better RAG Discover Multi-Head RAG"
 link: "https://medium.com/@anirudhyandrapu/want-a-better-rag-discover-multi-head-rag-ff945571c904"
+isUpdated: true
+updatedAt: 1723816594759
 ---
+
 
 
 검색 증강 생성 (RAG)은 질문 응답, 정보 검색 및 대화형 AI와 같은 자연어 처리 작업의 성능을 향상시킬 수 있는 강력한 방법입니다. 관련 외부 정보를 활용하여 더 정확하고 맥락에 적합한 응답을 생성함으로써 이를 달성합니다. 기존 RAG 기술은 종종 텍스트의 여러 측면을 포착하지 못하는데 그 이유는 최종 레이어의 임베딩에만 의존하기 때문입니다. 이 한계를 해결하기 위해, 이 논문은 Multi-Head RAG (MRAG)를 소개합니다. MRAG는 Transformer 모델의 멀티헤드 어텐션 레이어에서 디코더 레이어가 아닌 활성화를 사용하여 다양한 측면의 문서를 검색하는 혁신적인 접근 방식입니다.

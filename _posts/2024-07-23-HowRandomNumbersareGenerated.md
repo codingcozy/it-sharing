@@ -1,5 +1,5 @@
 ---
-title: "난수 생성 방법은 어떻게 될까"
+title: "랜덤 함수 생성 방법에 대해서 깊게 알아보자"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-23 21:48
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How Random Numbers are Generated"
 link: "https://dev.to/sh20raj/how-random-numbers-are-generated-40e0"
+isUpdated: true
+updatedAt: 1723812709409
 ---
+
 
 
 # 난수 생성 이해하기

@@ -1,5 +1,5 @@
 ---
-title: "비디오 하이라이트 자동화 오디오와 비주얼 신호를 활용한 혁신적인 비지도 학습 방법"
+title: "비디오 하이라이트 자동화 오디오와 비주얼 신호를 활용한 비지도 학습 방법"
 description: ""
 coverImage: "/assets/img/2024-07-27-AutomatingVideoHighlightsBreakthroughUnsupervisedMethodLeveragesAudioandVisualCues_0.png"
 date: 2024-07-27 13:59
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Automating Video Highlights Breakthrough Unsupervised Method Leverages Audio and Visual Cues"
 link: "https://medium.com/syncedreview/automating-video-highlights-breakthrough-unsupervised-method-leverages-audio-and-visual-cues-1e021f469d43"
+isUpdated: true
+updatedAt: 1723816869571
 ---
+
 
 
 

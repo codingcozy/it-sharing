@@ -1,5 +1,5 @@
 ---
-title: "프론트엔드 웹 개발 마스터를 위한 10가지 프로젝트"
+title: "프론트엔드 웹 개발 실력을 키우기 위한 10가지 프로젝트"
 description: ""
 coverImage: "/assets/img/2024-07-28-10ProjectstomasterFrontendWebDevelopment_0.png"
 date: 2024-07-28 13:51
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "10 Projects to master Frontend , Web Development"
 link: "https://dev.to/bigsondev/10-projects-to-master-frontend-web-development-acm"
+isUpdated: true
+updatedAt: 1723813431469
 ---
+
 
 
 ## 소개

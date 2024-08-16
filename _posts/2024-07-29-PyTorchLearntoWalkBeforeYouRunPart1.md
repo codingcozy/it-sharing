@@ -1,5 +1,5 @@
 ---
-title: "PyTorch 초보자를 위한 첫 걸음 - Part 1"
+title: "PyTorch 초보자를 위한 정리"
 description: ""
 coverImage: "/assets/img/2024-07-29-PyTorchLearntoWalkBeforeYouRunPart1_0.png"
 date: 2024-07-29 13:56
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "PyTorch Learn to Walk Before You Run  Part 1"
 link: "https://medium.com/@rahulveettil/pytorch-learn-to-walk-before-you-run-part-1-ee7f42683de9"
+isUpdated: true
+updatedAt: 1723817012608
 ---
+
 
 
 파이토치 초보자를 위한 안내서

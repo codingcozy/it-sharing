@@ -1,5 +1,5 @@
 ---
-title: "Java에서 동시 네트워크 요청을 효율적으로 실행하는 현대적인 방법"
+title: "Java에서 동시 네트워크 요청을 효율적으로 처리하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-29-AModernWaytoEfficientlyExecuteConcurrentNetworkRequestsinJava_0.png"
 date: 2024-07-29 13:54
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "A Modern Way to Efficiently Execute Concurrent Network Requests in Java"
 link: "https://medium.com/better-programming/a-modern-way-to-efficiently-execute-concurrent-network-requests-in-java-c8dceb4e7f4f"
+isUpdated: true
+updatedAt: 1723816986437
 ---
+
 
 
 <img src="/assets/img/2024-07-29-AModernWaytoEfficientlyExecuteConcurrentNetworkRequestsinJava_0.png" />

@@ -1,5 +1,5 @@
 ---
-title: "파이썬에서 함수형 프로그래밍 실습 더 우아하고 간결하게 코드 작성하는 방법"
+title: "파이썬에서 함수형 프로그래밍으로 코드를 더 짧게 작성하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-25-FunctionalProgrammingHands-OnPracticeinPythonMakeYourCodeMoreElegantandConcise_0.png"
 date: 2024-07-25 12:12
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Functional Programming Hands-On Practice in Python Make Your Code More Elegant and Concise"
 link: "https://medium.com/gitconnected/functional-programming-hands-on-practice-in-python-make-your-code-more-elegant-and-concise-ed95707b98b0"
+isUpdated: true
+updatedAt: 1723813222045
 ---
+
 
 
 

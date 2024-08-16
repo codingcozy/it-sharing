@@ -1,5 +1,5 @@
 ---
-title: "파이썬 내장 함수 모두 쉽게 설명하기"
+title: "초보 개발자라면 반드시 알아야하는 파이썬 내장 함수 5가지 정리"
 description: ""
 coverImage: "/assets/img/2024-07-21-EverySingleBuilt-inFunctioninPythonExplainedSimply_0.png"
 date: 2024-07-21 11:30
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Every Single Built-in Function in Python Explained Simply"
 link: "https://medium.com/gitconnected/every-single-built-in-function-in-python-explained-simply-4b3b26c6911e"
+isUpdated: true
+updatedAt: 1723812515327
 ---
+
 
 
 

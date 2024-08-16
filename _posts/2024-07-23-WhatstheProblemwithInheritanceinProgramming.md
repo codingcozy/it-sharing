@@ -1,5 +1,5 @@
 ---
-title: "프로그래밍에서 상속의 문제점은 무엇인가"
+title: "프로그래밍에서 상속, 제대로 알고 사용하자"
 description: ""
 coverImage: "/assets/img/2024-07-23-WhatstheProblemwithInheritanceinProgramming_0.png"
 date: 2024-07-23 11:32
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Whats the Problem with Inheritance in Programming"
 link: "https://medium.com/gitconnected/whats-the-problem-with-inheritance-in-programming-e1533f4b4b35"
+isUpdated: true
+updatedAt: 1723812869602
 ---
+
 
 
 

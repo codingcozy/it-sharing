@@ -1,5 +1,5 @@
 ---
-title: "Golang을 위한 Neovim 설정 방법"
+title: "Golang으로 Neovim 설정하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-23-ConfigureNeovimforGolang_0.png"
 date: 2024-07-23 22:03
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Configure Neovim for Golang"
 link: "https://medium.com/gitconnected/configure-neovim-for-golang-887fa8db61bd"
+isUpdated: true
+updatedAt: 1723812676775
 ---
+
 
 
 요즘 Go 쓰기에 관심이 생겨 Neovim 설정에서 Golang을 설정해야 했어요. 여기에 어떻게 설정했는지 알려드릴게요.

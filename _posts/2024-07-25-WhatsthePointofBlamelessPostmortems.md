@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Whats the Point of Blameless Postmortems"
 link: "https://medium.com/better-programming/whats-the-point-of-blameless-postmortems-5d8c2ff519d7"
+isUpdated: true
+updatedAt: 1723816816158
 ---
+
 
 
 

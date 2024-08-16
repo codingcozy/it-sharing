@@ -1,5 +1,5 @@
 ---
-title: "Java 8 Predicates를 사용하는 최고의 방법"
+title: "Java 8 Predicates 사용 방법 "
 description: ""
 coverImage: "/assets/img/2024-07-23-ThebestwaytouseJava8Predicates_0.png"
 date: 2024-07-23 11:30
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The best way to use Java 8 Predicates"
 link: "https://medium.com/@kouomeukevin/the-best-way-to-use-java-8-predicates-e7dad8331863"
+isUpdated: true
+updatedAt: 1723816779513
 ---
+
 
 
 이 상세 가이드에서는 Java 8의 새로운 유용한 기능인 Java Predicates에 대해 알아보게 됩니다. 이 기사에서는 Java Predicates가 무엇이고 다양한 방법으로 그들을 어떻게 사용하는지에 대해 설명합니다.

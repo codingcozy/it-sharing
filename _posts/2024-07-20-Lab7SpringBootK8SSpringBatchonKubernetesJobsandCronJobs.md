@@ -1,5 +1,5 @@
 ---
-title: "K8S에서 Spring Batch 사용하기 잡Jobs와 크론잡CronJobs을 활용한 Spring Boot 배치 작업 방법 Lab7"
+title: "K8S에서 Spring Batch 사용하기 잡Jobs와 크론잡CronJobs을 활용한 Spring Boot 배치 작업 방법"
 description: ""
 coverImage: "/assets/img/2024-07-20-Lab7SpringBootK8SSpringBatchonKubernetesJobsandCronJobs_0.png"
 date: 2024-07-20 11:31
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Lab7 Spring Boot K8S Spring Batch on Kubernetes  Jobs and CronJobs"
 link: "https://medium.com/@boottechnologies-ci/lab7-spring-boot-k8s-spring-batch-on-kubernetes-jobs-and-cronjobs-d75344fec5af"
+isUpdated: true
+updatedAt: 1723816740939
 ---
+
 
 
 우리의 k8s 시리즈에 다시 오신 걸 환영합니다. 이 이야기에서는 쿠버네티스 Jobs와 CronJobs가 실제로 어떻게 작동하는지 배워보겠습니다.

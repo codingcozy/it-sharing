@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Maestro Data ML Workflow Orchestrator at Netflix"
 link: "https://medium.com/netflix-techblog/maestro-netflixs-workflow-orchestrator-ee13a06f9c78"
+isUpdated: true
+updatedAt: 1723816621100
 ---
+
 
 
 Jun He, Natallia Dzenisenka, Praneeth Yenugutala, Yingyi Zhang, 그리고 Anjali Norwood님들의 작품

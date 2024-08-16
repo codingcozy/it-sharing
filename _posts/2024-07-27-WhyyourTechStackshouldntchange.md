@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Why your Tech Stack shouldnt change"
 link: "https://dev.to/joshlawson100/why-your-tech-stack-shouldnt-change-51m1"
+isUpdated: true
+updatedAt: 1723816892821
 ---
+
 
 
 기술은 끊임없이 변화하고 있어요. 정말 매달 새로운 JavaScript 프레임워크가 등장하는 것 같아요. 그러나 JavaScript 프레임워크는 뒷담화로 남기고, SaaS를 빠르게 출시하기 위한 핵심은 더 빠르게 코드를 작성하는 것이에요.

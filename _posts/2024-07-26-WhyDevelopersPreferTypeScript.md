@@ -1,5 +1,5 @@
 ---
-title: "개발자들이 TypeScript를 선호하는 이유 5가지"
+title: "프론트엔드 개발자들이 TypeScript를 사용하는 이유 5가지"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-26 11:54
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Why Developers Prefer TypeScript"
 link: "https://dev.to/zain725342/why-developers-prefer-typescript-3el0"
+isUpdated: true
+updatedAt: 1723813375913
 ---
+
 
 
 많은 전문 개발자들이 TypeScript를 좋아하는 이유가 궁금한 적이 있나요? 함께 알아보도록 하죠!

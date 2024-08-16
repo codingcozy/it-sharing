@@ -1,5 +1,5 @@
 ---
-title: " Angular 디렉티브에 스타일을 적용해야 할까"
+title: "Angular 디렉티브에 스타일 적용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-07-30-ShouldAngularDirectivesHaveStyles_0.png"
 date: 2024-07-30 17:03
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: " Should Angular Directives Have Styles"
 link: "https://medium.com/@tomaszs2/should-angular-directives-have-styles-62cd7e566542"
+isUpdated: true
+updatedAt: 1723817081239
 ---
+
 
 
 ![image](/assets/img/2024-07-30-ShouldAngularDirectivesHaveStyles_0.png)

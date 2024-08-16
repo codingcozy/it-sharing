@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "This Code Is ,"
 link: "https://medium.com/@clivethompson/this-code-is-136fc1015559"
+isUpdated: true
+updatedAt: 1723816785138
 ---
+
 
 
 ![ThisCodeIs_0.png](/assets/img/2024-07-24-ThisCodeIs_0.png)

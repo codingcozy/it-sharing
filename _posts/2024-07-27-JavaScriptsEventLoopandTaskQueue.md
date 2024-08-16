@@ -1,5 +1,5 @@
 ---
-title: "자바스크립트 이벤트 루프와 태스크 큐 이해하기"
+title: "자바스크립트 이벤트 루프와 태스크 큐 정리"
 description: ""
 coverImage: "/assets/img/2024-07-27-JavaScriptsEventLoopandTaskQueue_0.png"
 date: 2024-07-27 13:55
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "JavaScripts Event Loop and Task Queue"
 link: "https://medium.com/@louistrinh/javascripts-event-loop-and-task-queue-a020dcf7f131"
+isUpdated: true
+updatedAt: 1723816384116
 ---
+
 
 
 ![이미지](/assets/img/2024-07-27-JavaScriptsEventLoopandTaskQueue_0.png)

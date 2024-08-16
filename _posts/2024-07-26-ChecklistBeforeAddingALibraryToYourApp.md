@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Checklist Before Adding A Library To Your App"
 link: "https://medium.com/@elye-project/checklist-before-adding-a-library-to-your-app-5fbe123aee30"
+isUpdated: true
+updatedAt: 1723816824749
 ---
+
 
 
 ## 모바일 개발 배우기

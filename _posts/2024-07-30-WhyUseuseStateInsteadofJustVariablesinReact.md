@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Why Use useState Instead of Just Variables in React"
 link: "https://dev.to/homayunmmdy/why-use-usestate-instead-of-just-variables-in-react-2heo"
+isUpdated: true
+updatedAt: 1723817084545
 ---
+
 
 
 # React에서 단순 변수 대신 useState를 사용하는 이유

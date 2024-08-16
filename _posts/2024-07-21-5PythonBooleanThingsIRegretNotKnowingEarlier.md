@@ -1,5 +1,5 @@
 ---
-title: "알았더라면 좋았을 5가지 파이썬 불리언 꿀팁"
+title: "프론트엔드 개발자라면 알아야 할 5가지 파이썬 꿀팁"
 description: ""
 coverImage: "/assets/img/2024-07-21-5PythonBooleanThingsIRegretNotKnowingEarlier_0.png"
 date: 2024-07-21 11:32
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "5 Python Boolean Things I Regret Not Knowing Earlier"
 link: "https://medium.com/@zlliu/5-python-boolean-things-i-regret-not-knowing-earlier-a4caf4b00d1d"
+isUpdated: true
+updatedAt: 1723812500769
 ---
+
 
 
 <img src="/assets/img/2024-07-21-5PythonBooleanThingsIRegretNotKnowingEarlier_0.png" />

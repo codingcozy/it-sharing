@@ -1,5 +1,5 @@
 ---
-title: "Nextjs에서 접근 요청 승인 시스템 구축 방법"
+title: "Nextjs에서 접근 권한 제한 승인 시스템 구축 방법"
 description: ""
 coverImage: "/assets/img/2024-07-25-HowtoBuildaRequestAccessApprovalSysteminNextjs_0.png"
 date: 2024-07-25 11:57
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to Build a Request Access Approval System in Nextjs"
 link: "https://dev.to/arindam_1729/how-to-build-a-request-access-approval-system-using-nextjs-p3p"
+isUpdated: true
+updatedAt: 1723813231909
 ---
+
 
 
 ## 소개

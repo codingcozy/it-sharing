@@ -1,5 +1,5 @@
 ---
-title: "짧은 인터뷰 Qn 동적 타입 VS 정적 타입 언어 최신 비교"
+title: " 동적 타입 VS 정적 타입 언어 최신 비교"
 description: ""
 coverImage: "/assets/img/2024-07-25-ShortInterviewQnDynamically-typedVSStatically-typedLanguages_0.png"
 date: 2024-07-25 12:09
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Short Interview Qn Dynamically-typed VS Statically-typed Languages"
 link: "https://medium.com/gitconnected/short-interview-qn-dynamically-typed-vs-statically-typed-languages-688257c66134"
+isUpdated: true
+updatedAt: 1723816361441
 ---
+
 
 
 <img src="/assets/img/2024-07-25-ShortInterviewQnDynamically-typedVSStatically-typedLanguages_0.png" />

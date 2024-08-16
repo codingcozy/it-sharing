@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT와 함께하는 3가지 일반적인 인지 편향 탐구 "
+title: "ChatGPT와 함께하는 3가지 일반적인 인지 편향 탐구"
 description: ""
 coverImage: "/assets/img/2024-08-03-Exploring3CommonCognitiveBiaseswithChatGPT_0.png"
 date: 2024-08-03 21:02
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Exploring 3 Common Cognitive Biases with ChatGPT "
 link: "https://medium.com/ai-advances/exploring-3-common-cognitive-biases-with-chatgpt-de313806cb30"
+isUpdated: true
+updatedAt: 1723817109253
 ---
+
 
 
 ![Exploring3CommonCognitiveBiaseswithChatGPT_0](/assets/img/2024-08-03-Exploring3CommonCognitiveBiaseswithChatGPT_0.png)

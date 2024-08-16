@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Three Temptations for Developers"
 link: "https://medium.com/@elye-project/the-three-temptations-for-developers-f6d9019a544b"
+isUpdated: true
+updatedAt: 1723816834807
 ---
+
 
 
 ## 짧은 개발자 이야기

@@ -1,5 +1,5 @@
 ---
-title: "머신 러닝이란 무엇인가"
+title: "머신 러닝에 대해서 정리하기"
 description: ""
 coverImage: "/assets/img/2024-07-29-WhatisMachineLearning_0.png"
 date: 2024-07-29 13:51
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "What is Machine Learning"
 link: "https://dev.to/dakota_day/what-is-machine-learning-4g77"
+isUpdated: true
+updatedAt: 1723816444446
 ---
+
 
 
 처음으로 '기계 학습'이라는 말을 듣게 되면, "시간이 지남에 따라 더 정확해지는 AI"라고 생각해요.

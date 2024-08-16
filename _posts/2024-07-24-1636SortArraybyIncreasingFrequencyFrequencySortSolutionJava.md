@@ -1,5 +1,5 @@
 ---
-title: "Java로 배열을 빈도순으로 정렬하는 방법  1636 Frequency Sort Solution"
+title: "Java로 배열을 빈도순으로 정렬하는 방법 1636 Frequency Sort Solution"
 description: ""
 coverImage: "/assets/img/2024-07-24-1636SortArraybyIncreasingFrequencyFrequencySortSolutionJava_0.png"
 date: 2024-07-24 12:04
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "1636 Sort Array by Increasing Frequency  Frequency Sort Solution Java"
 link: "https://medium.com/@jameskodes/1636-sort-array-by-increasing-frequency-frequency-sort-solution-java-9d248ce77a27"
+isUpdated: true
+updatedAt: 1723816784093
 ---
+
 
 
 <img src="/assets/img/2024-07-24-1636SortArraybyIncreasingFrequencyFrequencySortSolutionJava_0.png" />

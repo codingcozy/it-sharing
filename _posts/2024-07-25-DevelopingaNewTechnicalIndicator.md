@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Developing a New Technical Indicator"
 link: "https://medium.com/@kaabar-sofien/developing-a-new-technical-indicator-6b22943c04e3"
+isUpdated: true
+updatedAt: 1723816804222
 ---
+
 
 
 ![그림](/assets/img/2024-07-25-DevelopingaNewTechnicalIndicator_0.png)

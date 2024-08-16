@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Streamlining Data Entry for a Cemetery Business"
 link: "https://medium.com/@dennisyd/streamlining-data-entry-for-a-cemetery-business-e1e2758b2322"
+isUpdated: true
+updatedAt: 1723813159832
 ---
+
 
 
 Markdown 형식으로 변경해 드릴게요.
